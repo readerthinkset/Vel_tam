@@ -1,0 +1,10 @@
+fonts/
+output/video/
+output/audio/
+output/images/
+output/backgrounds/
+output/daily_summary_*.json
+output/upload_results_*.json
+__pycache__/
+*.pyc
+.env
