@@ -1,0 +1,40 @@
+{
+  "phrases": [
+    {
+      "english": "Hello, where is the station?",
+      "tamil": "வணக்கம், நிலையம் எங்கே?",
+      "transliteration": "vanakkam, nilayam enge?",
+      "category": "Travel Tamil",
+      "generated_at": "2026-04-30T23:14:46.821513"
+    },
+    {
+      "english": "How much is this ticket?",
+      "tamil": "இந்த டிக்கெட் விலை என்ன?",
+      "transliteration": "indha ticket vilai enna?",
+      "category": "Travel Tamil",
+      "generated_at": "2026-04-30T23:14:46.821519"
+    },
+    {
+      "english": "Can I have water, please?",
+      "tamil": "தண்ணீர் கிடைக்குமா, தயவுசெய்து?",
+      "transliteration": "thanneer kidaikkuma, thayavuseithu?",
+      "category": "Travel Tamil",
+      "generated_at": "2026-04-30T23:14:46.821520"
+    },
+    {
+      "english": "Which bus goes to Chennai?",
+      "tamil": "சென்னைக்கு எந்த பஸ் போகும்?",
+      "transliteration": "chennaikku endha bus pogum?",
+      "category": "Travel Tamil",
+      "generated_at": "2026-04-30T23:14:46.821521"
+    },
+    {
+      "english": "I need a room, for one night.",
+      "tamil": "ஒரு இரவு, எனக்கு ஒரு அறை வேண்டும்.",
+      "transliteration": "oru iravu, enakku oru arai vendum.",
+      "category": "Travel Tamil",
+      "generated_at": "2026-04-30T23:14:46.821522"
+    }
+  ],
+  "last_updated": "2026-04-30T23:14:46.821524"
+}
