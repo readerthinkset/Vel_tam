@@ -174,7 +174,42 @@
       "transliteration": "Un kaiyai, naan pidikkalaamaa?",
       "category": "Love",
       "generated_at": "2026-05-01T20:13:48.105102"
+    },
+    {
+      "english": "Speak up, be heard.",
+      "tamil": "பேசுங்கள், கேட்கப்படுங்கள்.",
+      "transliteration": "Pesungal, ketkapadungal.",
+      "category": "Confidence",
+      "generated_at": "2026-05-01T22:38:14.477120"
+    },
+    {
+      "english": "Try it, you might like it.",
+      "tamil": "முயற்சி செய்யுங்கள், உங்களுக்குப் பிடிக்கலாம்.",
+      "transliteration": "Muyarchi seyyungal, ungalukku pidikkalaam.",
+      "category": "Confidence",
+      "generated_at": "2026-05-01T22:38:14.477127"
+    },
+    {
+      "english": "Every day, learn something new.",
+      "tamil": "தினமும், புதிதாக ஒன்றைக் கற்றுக்கொள்ளுங்கள்.",
+      "transliteration": "Dhinamum, pudhidhaaga ondrai katrukkollungal.",
+      "category": "Confidence",
+      "generated_at": "2026-05-01T22:38:14.477128"
+    },
+    {
+      "english": "Believe in yourself, you can do it.",
+      "tamil": "உங்களை நம்புங்கள், உங்களால் முடியும்.",
+      "transliteration": "Ungalai nambungal, ungalal mudiyum.",
+      "category": "Confidence",
+      "generated_at": "2026-05-01T22:38:14.477129"
+    },
+    {
+      "english": "Don't be afraid, just start.",
+      "tamil": "பயப்படாதீர்கள், தொடங்குங்கள்.",
+      "transliteration": "Bayappadaadheergal, thodangungal.",
+      "category": "Confidence",
+      "generated_at": "2026-05-01T22:38:14.477130"
     }
   ],
-  "last_updated": "2026-05-01T20:13:48.105104"
+  "last_updated": "2026-05-01T22:38:14.477132"
 }
