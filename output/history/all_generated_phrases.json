@@ -34,7 +34,42 @@
       "transliteration": "oru iravu, enakku oru arai vendum.",
       "category": "Travel Tamil",
       "generated_at": "2026-04-30T23:14:46.821522"
+    },
+    {
+      "english": "My mother, she is kind.",
+      "tamil": "என் அம்மா, ரொம்ப அன்பானவர்.",
+      "transliteration": "En amma, romba anbaanavar.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-01T07:55:10.083579"
+    },
+    {
+      "english": "My father, he works hard.",
+      "tamil": "என் அப்பா, நிறைய உழைக்கிறார்.",
+      "transliteration": "En appa, niraiya uzhaikkiraar.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-01T07:55:10.083587"
+    },
+    {
+      "english": "My older brother, he is smart.",
+      "tamil": "என் அண்ணன், புத்திசாலி.",
+      "transliteration": "En annan, puthisaali.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-01T07:55:10.083588"
+    },
+    {
+      "english": "My younger sister, she is playful.",
+      "tamil": "என் தங்கை, ரொம்ப ஜாலியானவள்.",
+      "transliteration": "En thangai, romba jaaliyaanaval.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-01T07:55:10.083589"
+    },
+    {
+      "english": "My grandmother, she cooks well.",
+      "tamil": "என் பாட்டி, சமையல் சூப்பர்.",
+      "transliteration": "En paatti, samaiyal super.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-01T07:55:10.083591"
     }
   ],
-  "last_updated": "2026-04-30T23:14:46.821524"
+  "last_updated": "2026-05-01T07:55:10.083593"
 }
