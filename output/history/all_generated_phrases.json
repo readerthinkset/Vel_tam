@@ -314,7 +314,42 @@
       "transliteration": "Nalla athirvugal, engum paravattum.",
       "category": "Happiness",
       "generated_at": "2026-05-02T16:32:53.415689"
+    },
+    {
+      "english": "Learn a little, every day.",
+      "tamil": "தினமும் கொஞ்சம், கற்றுக்கொள்ளுங்கள்.",
+      "transliteration": "thinamum konjam, katrukkollungal.",
+      "category": "Growth",
+      "generated_at": "2026-05-02T19:59:25.924609"
+    },
+    {
+      "english": "Embrace the challenge, grow stronger.",
+      "tamil": "சவாலை ஏற்றுக்கொள்ளுங்கள், வலிமையடைங்கள்.",
+      "transliteration": "savālai yetrukkollungal, valimayadaingal.",
+      "category": "Growth",
+      "generated_at": "2026-05-02T19:59:25.924618"
+    },
+    {
+      "english": "Small steps, big progress.",
+      "tamil": "சின்ன அடிகள், பெரிய முன்னேற்றம்.",
+      "transliteration": "chinna adigal, periya munnetram.",
+      "category": "Growth",
+      "generated_at": "2026-05-02T19:59:25.924619"
+    },
+    {
+      "english": "Be patient, keep trying.",
+      "tamil": "பொறுமையாக இருங்கள், முயற்சி செய்யுங்கள்.",
+      "transliteration": "porumaiyaga irungal, muyarchi seyyungal.",
+      "category": "Growth",
+      "generated_at": "2026-05-02T19:59:25.924620"
+    },
+    {
+      "english": "Mistakes help, you learn.",
+      "tamil": "தவறுகள் உதவும், நீங்கள் கற்றுக்கொள்வீர்கள்.",
+      "transliteration": "thavarugal uthavum, neengal katrukkolveergal.",
+      "category": "Growth",
+      "generated_at": "2026-05-02T19:59:25.924621"
     }
   ],
-  "last_updated": "2026-05-02T16:32:53.415691"
+  "last_updated": "2026-05-02T19:59:25.924622"
 }
