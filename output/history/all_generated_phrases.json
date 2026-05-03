@@ -524,7 +524,42 @@
       "transliteration": "vāyppukaḷai ārāy, uṉ vaḻiyaik kaṇṭupiṭi.",
       "category": "Creativity",
       "generated_at": "2026-05-03T19:58:41.793587"
+    },
+    {
+      "english": "Hello, what's today's special?",
+      "tamil": "வணக்கம், இன்னைக்கு என்ன ஸ்பெஷல்?",
+      "transliteration": "Vanakkam, innaikku enna special?",
+      "category": "Restaurant Tamil",
+      "generated_at": "2026-05-03T22:08:53.396114"
+    },
+    {
+      "english": "We want a table, for two.",
+      "tamil": "எங்களுக்கு ஒரு டேபிள் வேணும், ரெண்டு பேருக்கு.",
+      "transliteration": "Engalukku oru table venum, rendu perukku.",
+      "category": "Restaurant Tamil",
+      "generated_at": "2026-05-03T22:08:53.396122"
+    },
+    {
+      "english": "Can I see the menu, please?",
+      "tamil": "மெனு பார்க்கலாமா, ப்ளீஸ்?",
+      "transliteration": "Menu paarkkalaama, please?",
+      "category": "Restaurant Tamil",
+      "generated_at": "2026-05-03T22:08:53.396124"
+    },
+    {
+      "english": "This dish is very tasty.",
+      "tamil": "இந்த டிஷ் ரொம்ப சுவையா இருக்கு.",
+      "transliteration": "Intha dish romba suvaiya irukku.",
+      "category": "Restaurant Tamil",
+      "generated_at": "2026-05-03T22:08:53.396125"
+    },
+    {
+      "english": "I'll have the chicken curry.",
+      "tamil": "நான் சிக்கன் கறி சாப்பிடுறேன்.",
+      "transliteration": "Naan chicken curry saappiduren.",
+      "category": "Restaurant Tamil",
+      "generated_at": "2026-05-03T22:08:53.396126"
     }
   ],
-  "last_updated": "2026-05-03T19:58:41.793590"
+  "last_updated": "2026-05-03T22:08:53.396128"
 }
