@@ -594,7 +594,42 @@
       "transliteration": "aindhu, enakkup purigirathu.",
       "category": "Numbers Tamil",
       "generated_at": "2026-05-04T09:08:07.265740"
+    },
+    {
+      "english": "Breathe in, breathe out, peace.",
+      "tamil": "மூச்சை உள்ளிழு, மூச்சை வெளிவிடு, அமைதி.",
+      "transliteration": "Moochai ullizhu, moochai velividu, amaithi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-04T17:18:38.006018"
+    },
+    {
+      "english": "Feel the moment, deeply, now.",
+      "tamil": "இந்த நொடியை உணர், ஆழமாக, இப்போது.",
+      "transliteration": "Indha nodiyai unar, aazhamaaga, ippodhu.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-04T17:18:38.006028"
+    },
+    {
+      "english": "Just be, here, present.",
+      "tamil": "இரு, இங்கே, மனதுடன்.",
+      "transliteration": "Iru, ingae, manadhudan.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-04T17:18:38.006029"
+    },
+    {
+      "english": "Listen closely, to silence.",
+      "tamil": "மௌனத்தை, கவனமாகக் கேள்.",
+      "transliteration": "Mounaththai, gavanamaaga kel.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-04T17:18:38.006031"
+    },
+    {
+      "english": "Observe thoughts, let them pass.",
+      "tamil": "எண்ணங்களைக் கவனி, செல்ல விடு.",
+      "transliteration": "Ennangalgalai gavani, sella vidu.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-04T17:18:38.006032"
     }
   ],
-  "last_updated": "2026-05-04T09:08:07.265753"
+  "last_updated": "2026-05-04T17:18:38.006033"
 }
