@@ -664,7 +664,42 @@
       "transliteration": "kavanam sidharaamal iru, athigam saathii.",
       "category": "Strength",
       "generated_at": "2026-05-04T19:08:09.315609"
+    },
+    {
+      "english": "Hello, how are you?",
+      "tamil": "வணக்கம், எப்படி இருக்கீங்க?",
+      "transliteration": "vanakkam, eppadi irukkinga?",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-04T20:54:34.654481"
+    },
+    {
+      "english": "Thank you very much.",
+      "tamil": "ரொம்ப நன்றி.",
+      "transliteration": "romba nandri.",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-04T20:54:34.654492"
+    },
+    {
+      "english": "Excuse me, please.",
+      "tamil": "மன்னிக்கவும், தயவுசெய்து.",
+      "transliteration": "mannikkavum, thayavuseythu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-04T20:54:34.654494"
+    },
+    {
+      "english": "Yes, I understand.",
+      "tamil": "ஆம், எனக்கு புரிகிறது.",
+      "transliteration": "aam, enakku purigirathu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-04T20:54:34.654495"
+    },
+    {
+      "english": "No, I don't know.",
+      "tamil": "இல்லை, எனக்கு தெரியாது.",
+      "transliteration": "illai, enakku theriyathu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-04T20:54:34.654496"
     }
   ],
-  "last_updated": "2026-05-04T19:08:09.315611"
+  "last_updated": "2026-05-04T20:54:34.654498"
 }
