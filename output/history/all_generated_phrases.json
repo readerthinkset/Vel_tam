@@ -559,7 +559,42 @@
       "transliteration": "Naan chicken curry saappiduren.",
       "category": "Restaurant Tamil",
       "generated_at": "2026-05-03T22:08:53.396126"
+    },
+    {
+      "english": "One, good start.",
+      "tamil": "ஒன்று, நல்ல ஆரம்பம்.",
+      "transliteration": "ondru, nalla aarambam.",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-05-04T09:08:07.265707"
+    },
+    {
+      "english": "Two, very interesting.",
+      "tamil": "இரண்டு, மிகவும் சுவாரஸ்யமானது.",
+      "transliteration": "irandu, migavum suvaarasyamaanathu.",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-05-04T09:08:07.265733"
+    },
+    {
+      "english": "Three, let's go.",
+      "tamil": "மூன்று, போகலாம்.",
+      "transliteration": "moondru, pogalaam.",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-05-04T09:08:07.265735"
+    },
+    {
+      "english": "Four, for sure.",
+      "tamil": "நான்கு, நிச்சயமாக.",
+      "transliteration": "naangu, nichchayamaaga.",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-05-04T09:08:07.265738"
+    },
+    {
+      "english": "Five, I understand.",
+      "tamil": "ஐந்து, எனக்குப் புரிகிறது.",
+      "transliteration": "aindhu, enakkup purigirathu.",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-05-04T09:08:07.265740"
     }
   ],
-  "last_updated": "2026-05-03T22:08:53.396128"
+  "last_updated": "2026-05-04T09:08:07.265753"
 }
