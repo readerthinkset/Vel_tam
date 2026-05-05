@@ -804,7 +804,42 @@
       "transliteration": "En kaadhal, unakkaaga.",
       "category": "Love",
       "generated_at": "2026-05-05T17:15:51.438326"
+    },
+    {
+      "english": "Thank you, very much.",
+      "tamil": "மிக்க நன்றி.",
+      "transliteration": "Mikka nandri.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-05T19:00:34.013242"
+    },
+    {
+      "english": "I appreciate, this.",
+      "tamil": "நான் இதை பாராட்டுகிறேன்.",
+      "transliteration": "Naan idhai paarattugiren.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-05T19:00:34.013249"
+    },
+    {
+      "english": "So kind, of you.",
+      "tamil": "நீங்கள் மிகவும் அன்பானவர்.",
+      "transliteration": "Neengal migavum anbaanavar.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-05T19:00:34.013251"
+    },
+    {
+      "english": "That's helpful, thank you.",
+      "tamil": "அது உதவியாக இருந்தது, நன்றி.",
+      "transliteration": "Adhu udhaviyaaga irundhadhu, nandri.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-05T19:00:34.013252"
+    },
+    {
+      "english": "I am grateful, truly.",
+      "tamil": "நான் உண்மையிலேயே நன்றியுள்ளவனாக இருக்கிறேன்.",
+      "transliteration": "Naan unmaiyileye nandriyullavanaaga irukkiren.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-05T19:00:34.013253"
     }
   ],
-  "last_updated": "2026-05-05T17:15:51.438328"
+  "last_updated": "2026-05-05T19:00:34.013255"
 }
