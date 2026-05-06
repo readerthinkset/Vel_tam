@@ -944,7 +944,42 @@
       "transliteration": "Kelvigalai kel, padhilgalai peru.",
       "category": "Purpose",
       "generated_at": "2026-05-06T19:14:03.415592"
+    },
+    {
+      "english": "How much is this, please?",
+      "tamil": "இது எவ்வளவு, தயவுசெய்து?",
+      "transliteration": "Ithu evvalavu, thayavuseythu?",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-05-06T21:00:23.563118"
+    },
+    {
+      "english": "I'm just looking, thank you.",
+      "tamil": "நான் சும்மா பார்க்கிறேன், நன்றி.",
+      "transliteration": "Naan summa paarkkiren, nandri.",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-05-06T21:00:23.563127"
+    },
+    {
+      "english": "Do you have this, in red?",
+      "tamil": "இது உங்களிடம், சிவப்பு நிறத்தில் இருக்கிறதா?",
+      "transliteration": "Ithu ungalidam, sivappu niraththil irukkirathaa?",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-05-06T21:00:23.563129"
+    },
+    {
+      "english": "Can I try this on?",
+      "tamil": "இதை நான் போட்டுப் பார்க்கலாமா?",
+      "transliteration": "Ithai naan pottup paarkkalaamaa?",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-05-06T21:00:23.563130"
+    },
+    {
+      "english": "Where is the fitting room?",
+      "tamil": "டிரையல் ரூம் எங்கே இருக்கிறது?",
+      "transliteration": "Trial room enge irukkirathu?",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-05-06T21:00:23.563131"
     }
   ],
-  "last_updated": "2026-05-06T19:14:03.415594"
+  "last_updated": "2026-05-06T21:00:23.563133"
 }
