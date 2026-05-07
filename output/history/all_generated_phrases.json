@@ -1014,7 +1014,42 @@
       "transliteration": "ovvoru adiyum, munnettame.",
       "category": "Hope",
       "generated_at": "2026-05-06T22:38:18.361639"
+    },
+    {
+      "english": "Help! I need help, please.",
+      "tamil": "உதவி! எனக்கு உதவி வேண்டும், தயவுசெய்து.",
+      "transliteration": "Udhavi! Enakku udhavi vendum, dhayavuseydhu.",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-05-07T09:47:28.550741"
+    },
+    {
+      "english": "Fire! There is a fire, quickly!",
+      "tamil": "தீ! அங்கே தீ, சீக்கிரம்!",
+      "transliteration": "Thee! Ange thee, seekkiram!",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-05-07T09:47:28.550750"
+    },
+    {
+      "english": "Call police, emergency now.",
+      "tamil": "போலீஸை அழையுங்கள், அவசரம் இப்போது.",
+      "transliteration": "Police-ai azhaiyungal, avasaram ippodhu.",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-05-07T09:47:28.550751"
+    },
+    {
+      "english": "I am lost, can you help?",
+      "tamil": "நான் தொலைந்துவிட்டேன், உதவ முடியுமா?",
+      "transliteration": "Naan tholaindhuvitten, udhava mudiyuma?",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-05-07T09:47:28.550753"
+    },
+    {
+      "english": "Medical emergency, need a doctor.",
+      "tamil": "மருத்துவ அவசரம், மருத்துவர் வேண்டும்.",
+      "transliteration": "Marutthuva avasaram, marutthavar vendum.",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-05-07T09:47:28.550754"
     }
   ],
-  "last_updated": "2026-05-06T22:38:18.361645"
+  "last_updated": "2026-05-07T09:47:28.550756"
 }
