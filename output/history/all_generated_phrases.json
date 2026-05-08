@@ -1259,7 +1259,42 @@
       "transliteration": "nalla naal amaiyattum.",
       "category": "Basic Phrases",
       "generated_at": "2026-05-08T18:57:07.142184"
+    },
+    {
+      "english": "Don't rush, it's okay.",
+      "tamil": "அவசரப்படாதீர்கள், பரவாயில்லை.",
+      "transliteration": "Avasarappadātheergal, paravāyillai.",
+      "category": "Patience",
+      "generated_at": "2026-05-08T23:15:26.914341"
+    },
+    {
+      "english": "Patience, brings rewards.",
+      "tamil": "பொறுமை, பலன் தரும்.",
+      "transliteration": "Porumai, palan tharum.",
+      "category": "Patience",
+      "generated_at": "2026-05-08T23:15:26.914349"
+    },
+    {
+      "english": "We can wait, for now.",
+      "tamil": "நாம் காத்திருக்கலாம், இப்போதைக்கு.",
+      "transliteration": "Naam kāthirukkalam, ippodhaikku.",
+      "category": "Patience",
+      "generated_at": "2026-05-08T23:15:26.914351"
+    },
+    {
+      "english": "Give it some time.",
+      "tamil": "இதற்கு சிறிது நேரம் கொடுங்கள்.",
+      "transliteration": "Idharku siridhu nēram kodungal.",
+      "category": "Patience",
+      "generated_at": "2026-05-08T23:15:26.914352"
+    },
+    {
+      "english": "It will be alright, soon.",
+      "tamil": "விரைவில், எல்லாம் சரியாகிவிடும்.",
+      "transliteration": "Viravil, ellām sariyāgividum.",
+      "category": "Patience",
+      "generated_at": "2026-05-08T23:15:26.914353"
     }
   ],
-  "last_updated": "2026-05-08T18:57:07.142187"
+  "last_updated": "2026-05-08T23:15:26.914355"
 }
