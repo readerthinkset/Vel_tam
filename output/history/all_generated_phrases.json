@@ -1224,7 +1224,42 @@
       "transliteration": "ovvoru sollum, oru munnetrap padi.",
       "category": "Growth",
       "generated_at": "2026-05-08T16:53:42.261781"
+    },
+    {
+      "english": "What is this?",
+      "tamil": "இது என்ன?",
+      "transliteration": "ithu enna?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-08T18:57:07.142170"
+    },
+    {
+      "english": "Where is the bathroom?",
+      "tamil": "கழிப்பறை எங்கே?",
+      "transliteration": "kazhipparai enge?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-08T18:57:07.142180"
+    },
+    {
+      "english": "I need help.",
+      "tamil": "எனக்கு உதவி தேவை.",
+      "transliteration": "enakku uthavi thevai.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-08T18:57:07.142182"
+    },
+    {
+      "english": "See you later.",
+      "tamil": "பிறகு சந்திக்கலாம்.",
+      "transliteration": "piragu santhikkalaam.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-08T18:57:07.142183"
+    },
+    {
+      "english": "Have a nice day.",
+      "tamil": "நல்ல நாள் அமையட்டும்.",
+      "transliteration": "nalla naal amaiyattum.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-08T18:57:07.142184"
     }
   ],
-  "last_updated": "2026-05-08T16:53:42.261783"
+  "last_updated": "2026-05-08T18:57:07.142187"
 }
