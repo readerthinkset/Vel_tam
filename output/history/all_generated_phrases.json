@@ -1364,7 +1364,42 @@
       "transliteration": "savaalgalai ethirkol, thairiyaththudan.",
       "category": "Strength",
       "generated_at": "2026-05-10T15:17:51.891342"
+    },
+    {
+      "english": "Hello there, how are you?",
+      "tamil": "வணக்கம், நீங்கள் எப்படி இருக்கிறீர்கள்?",
+      "transliteration": "vanakkam, neengal eppadi irukireergal?",
+      "category": "Greetings",
+      "generated_at": "2026-05-10T20:06:13.323929"
+    },
+    {
+      "english": "Good morning, my friend.",
+      "tamil": "காலை வணக்கம், என் நண்பரே.",
+      "transliteration": "kaalai vanakkam, en nanbare.",
+      "category": "Greetings",
+      "generated_at": "2026-05-10T20:06:13.323938"
+    },
+    {
+      "english": "Welcome, please come in.",
+      "tamil": "வாருங்கள், தயவுசெய்து உள்ளே வாருங்கள்.",
+      "transliteration": "vaarungal, thayavuseithu ulle vaarungal.",
+      "category": "Greetings",
+      "generated_at": "2026-05-10T20:06:13.323940"
+    },
+    {
+      "english": "Nice to meet you.",
+      "tamil": "உங்களை சந்தித்ததில் மகிழ்ச்சி.",
+      "transliteration": "ungalai santhithathil magizhchi.",
+      "category": "Greetings",
+      "generated_at": "2026-05-10T20:06:13.323940"
+    },
+    {
+      "english": "Have a good day.",
+      "tamil": "இனிய நாள் அமையட்டும்.",
+      "transliteration": "iniya naal amaiyattum.",
+      "category": "Greetings",
+      "generated_at": "2026-05-10T20:06:13.323941"
     }
   ],
-  "last_updated": "2026-05-10T15:17:51.891351"
+  "last_updated": "2026-05-10T20:06:13.323943"
 }
