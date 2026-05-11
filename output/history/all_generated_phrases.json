@@ -1504,7 +1504,42 @@
       "transliteration": "Kaalam ellaa kaayangalaiyum aatrum, porumaiyaga irungal.",
       "category": "Time Tamil",
       "generated_at": "2026-05-11T20:24:21.947586"
+    },
+    {
+      "english": "Is it spicy, this one?",
+      "tamil": "இது காரமா இருக்கா, இது?",
+      "transliteration": "Ithu kaarama irukkaa, ithu?",
+      "category": "Restaurant Tamil",
+      "generated_at": "2026-05-11T23:16:07.012124"
+    },
+    {
+      "english": "Water, please, with ice.",
+      "tamil": "தண்ணீர் வேணும், ப்ளீஸ், ஐஸ் சேர்த்து.",
+      "transliteration": "Thanneer venum, please, ice serthu.",
+      "category": "Restaurant Tamil",
+      "generated_at": "2026-05-11T23:16:07.012135"
+    },
+    {
+      "english": "The bill, can I get it?",
+      "tamil": "பில், வாங்கிக்கலாமா?",
+      "transliteration": "Bill, vaangikkalaama?",
+      "category": "Restaurant Tamil",
+      "generated_at": "2026-05-11T23:16:07.012136"
+    },
+    {
+      "english": "Everything was delicious, thank you.",
+      "tamil": "எல்லாம் சூப்பரா இருந்துச்சு, நன்றி.",
+      "transliteration": "Ellaam superaa irunthuchu, nandri.",
+      "category": "Restaurant Tamil",
+      "generated_at": "2026-05-11T23:16:07.012137"
+    },
+    {
+      "english": "Do you have vegetarian options?",
+      "tamil": "சைவ சாப்பாடு இருக்கா?",
+      "transliteration": "Saiva saappaadu irukkaa?",
+      "category": "Restaurant Tamil",
+      "generated_at": "2026-05-11T23:16:07.012138"
     }
   ],
-  "last_updated": "2026-05-11T20:24:21.947588"
+  "last_updated": "2026-05-11T23:16:07.012140"
 }
