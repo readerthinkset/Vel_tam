@@ -1539,7 +1539,42 @@
       "transliteration": "Saiva saappaadu irukkaa?",
       "category": "Restaurant Tamil",
       "generated_at": "2026-05-11T23:16:07.012138"
+    },
+    {
+      "english": "My grandfather, he tells stories.",
+      "tamil": "என் தாத்தா, கதை சொல்வார்.",
+      "transliteration": "En thaaththaa, kathai solvaar.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-12T10:04:07.490798"
+    },
+    {
+      "english": "My aunt, she is funny.",
+      "tamil": "என் அத்தை, சிரிப்பாங்க.",
+      "transliteration": "En aththai, sirippaanga.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-12T10:04:07.490806"
+    },
+    {
+      "english": "My uncle, he is strong.",
+      "tamil": "என் மாமா, பலசாலி.",
+      "transliteration": "En maamaa, palasaali.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-12T10:04:07.490808"
+    },
+    {
+      "english": "My cousin, he is a friend.",
+      "tamil": "என் சகோதரன், நண்பன் மாதிரி.",
+      "transliteration": "En sagotharan, nanban maathiri.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-12T10:04:07.490809"
+    },
+    {
+      "english": "Our family, we are happy.",
+      "tamil": "எங்கள் குடும்பம், சந்தோஷமானது.",
+      "transliteration": "Engal kudumbam, santhoshamaanathu.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-12T10:04:07.490810"
     }
   ],
-  "last_updated": "2026-05-11T23:16:07.012140"
+  "last_updated": "2026-05-12T10:04:07.490812"
 }
