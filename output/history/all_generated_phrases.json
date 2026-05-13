@@ -1644,7 +1644,42 @@
       "transliteration": "Nee seivaai, nambu.",
       "category": "Success",
       "generated_at": "2026-05-12T23:42:17.099001"
+    },
+    {
+      "english": "You are a gem, thanks.",
+      "tamil": "நீங்கள் ஒரு மாணிக்கம், நன்றி.",
+      "transliteration": "Neengal oru maanikkam, nandri.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-13T10:04:44.461099"
+    },
+    {
+      "english": "This means a lot, thank you.",
+      "tamil": "இது எனக்கு மிகவும் முக்கியம், நன்றி.",
+      "transliteration": "Idhu enakku migavum mukkiyam, nandri.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-13T10:04:44.461109"
+    },
+    {
+      "english": "My thanks, to you.",
+      "tamil": "எனது நன்றிகள், உங்களுக்கு.",
+      "transliteration": "Enadhu nandrigal, ungalukku.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-13T10:04:44.461110"
+    },
+    {
+      "english": "So thoughtful, thank you.",
+      "tamil": "மிகவும் சிந்தனையுடன், நன்றி.",
+      "transliteration": "Migavum sindhanaiyudan, nandri.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-13T10:04:44.461112"
+    },
+    {
+      "english": "I owe you one, thanks.",
+      "tamil": "நான் உங்களுக்கு கடமைப்பட்டுள்ளேன், நன்றி.",
+      "transliteration": "Naan ungalukku kadamaippattullen, nandri.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-13T10:04:44.461113"
     }
   ],
-  "last_updated": "2026-05-12T23:42:17.099002"
+  "last_updated": "2026-05-13T10:04:44.461114"
 }
