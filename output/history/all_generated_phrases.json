@@ -1679,7 +1679,42 @@
       "transliteration": "Naan ungalukku kadamaippattullen, nandri.",
       "category": "Gratitude",
       "generated_at": "2026-05-13T10:04:44.461113"
+    },
+    {
+      "english": "Can you show me the map?",
+      "tamil": "வரைபடத்தை காட்ட முடியுமா?",
+      "transliteration": "varaipadathai kaatta mudiyuma?",
+      "category": "Travel Tamil",
+      "generated_at": "2026-05-13T20:22:56.189076"
+    },
+    {
+      "english": "Excuse me, where is the restroom?",
+      "tamil": "மன்னிக்கவும், கழிப்பறை எங்கே?",
+      "transliteration": "mannikkavum, kazhipparai enge?",
+      "category": "Travel Tamil",
+      "generated_at": "2026-05-13T20:22:56.189084"
+    },
+    {
+      "english": "I want to go home now.",
+      "tamil": "நான் இப்போது வீட்டிற்கு செல்ல வேண்டும்.",
+      "transliteration": "naan ippothu veettirku sella vendum.",
+      "category": "Travel Tamil",
+      "generated_at": "2026-05-13T20:22:56.189086"
+    },
+    {
+      "english": "Thank you, that was helpful.",
+      "tamil": "நன்றி, அது உதவியாக இருந்தது.",
+      "transliteration": "nandri, athu uthaviyaga irunthathu.",
+      "category": "Travel Tamil",
+      "generated_at": "2026-05-13T20:22:56.189087"
+    },
+    {
+      "english": "See you later, goodbye.",
+      "tamil": "பிறகு சந்திக்கலாம், போய் வருகிறேன்.",
+      "transliteration": "piragu santhikkalaam, poi varugiren.",
+      "category": "Travel Tamil",
+      "generated_at": "2026-05-13T20:22:56.189088"
     }
   ],
-  "last_updated": "2026-05-13T10:04:44.461114"
+  "last_updated": "2026-05-13T20:22:56.189089"
 }
