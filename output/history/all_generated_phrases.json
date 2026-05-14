@@ -1749,7 +1749,42 @@
       "transliteration": "Tamilnadai aaraai, azhagai kandupidi.",
       "category": "Purpose",
       "generated_at": "2026-05-13T22:01:27.831715"
+    },
+    {
+      "english": "I forgive you, completely.",
+      "tamil": "நான் உன்னை, மன்னிக்கிறேன்.",
+      "transliteration": "naan unnai, mannikiren.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-14T23:14:46.327079"
+    },
+    {
+      "english": "Please, let's move on.",
+      "tamil": "தயவுசெய்து, இதை விட்டுவிடுவோம்.",
+      "transliteration": "thayavuseithu, ithai vittuviduvom.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-14T23:14:46.327090"
+    },
+    {
+      "english": "It's okay, forget it.",
+      "tamil": "பரவாயில்லை, மறந்துவிடு.",
+      "transliteration": "paravaayillai, maranthuvidu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-14T23:14:46.327092"
+    },
+    {
+      "english": "I accept your apology.",
+      "tamil": "உன் மன்னிப்பை, ஏற்றுக்கொள்கிறேன்.",
+      "transliteration": "un mannippai, yetrukkolgiren.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-14T23:14:46.327093"
+    },
+    {
+      "english": "No hard feelings, okay?",
+      "tamil": "மனதில் எதுவும், இல்லை.",
+      "transliteration": "manathil ethuvum, illai.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-14T23:14:46.327094"
     }
   ],
-  "last_updated": "2026-05-13T22:01:27.831716"
+  "last_updated": "2026-05-14T23:14:46.327098"
 }
