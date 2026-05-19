@@ -1994,7 +1994,42 @@
       "transliteration": "ellam, sariyaagivittathu.",
       "category": "Forgiveness",
       "generated_at": "2026-05-18T12:53:54.248096"
+    },
+    {
+      "english": "Someone is hurt, send help.",
+      "tamil": "ஒருவர் காயமடைந்துள்ளார், உதவி அனுப்புங்கள்.",
+      "transliteration": "Oruvar kaayamadainthullaar, udhavi anuppungal.",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-05-19T11:44:22.858400"
+    },
+    {
+      "english": "Where is the nearest hospital?",
+      "tamil": "அருகில் உள்ள மருத்துவமனை எங்கே?",
+      "transliteration": "Arugil ulla marutthuvamanai enge?",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-05-19T11:44:22.858410"
+    },
+    {
+      "english": "My bag is stolen, please help.",
+      "tamil": "என் பை திருடு போனது, தயவுசெய்து உதவி.",
+      "transliteration": "En pai thirudu ponadhu, dhayavuseydhu udhavi.",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-05-19T11:44:22.858412"
+    },
+    {
+      "english": "I cannot breathe, need air.",
+      "tamil": "என்னால் சுவாசிக்க முடியவில்லை, காற்று வேண்டும்.",
+      "transliteration": "Ennaal suvaasikka mudiyavillai, kaatru vendum.",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-05-19T11:44:22.858413"
+    },
+    {
+      "english": "Alert! Danger, stay away.",
+      "tamil": "எச்சரிக்கை! ஆபத்து, விலகி இருங்கள்.",
+      "transliteration": "Echcharikkai! Aabatthu, vilagi irungal.",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-05-19T11:44:22.858414"
     }
   ],
-  "last_updated": "2026-05-18T12:53:54.248097"
+  "last_updated": "2026-05-19T11:44:22.858416"
 }
