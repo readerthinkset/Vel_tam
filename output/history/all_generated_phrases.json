@@ -2029,7 +2029,42 @@
       "transliteration": "Echcharikkai! Aabatthu, vilagi irungal.",
       "category": "Emergency Tamil",
       "generated_at": "2026-05-19T11:44:22.858414"
+    },
+    {
+      "english": "I'll take this one.",
+      "tamil": "நான் இதை வாங்குகிறேன்.",
+      "transliteration": "Naan ithai vaangugiren.",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-05-19T21:58:31.587810"
+    },
+    {
+      "english": "Do you have a bag?",
+      "tamil": "உங்களிடம் பை இருக்கிறதா?",
+      "transliteration": "Ungalidam pai irukkirathaa?",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-05-19T21:58:31.587820"
+    },
+    {
+      "english": "Can I pay by card?",
+      "tamil": "நான் கார்டில் பணம் செலுத்தலாமா?",
+      "transliteration": "Naan card-il panam seluththalaamaa?",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-05-19T21:58:31.587822"
+    },
+    {
+      "english": "Is there a discount?",
+      "tamil": "ஏதாவது தள்ளுபடி உண்டா?",
+      "transliteration": "Ethavathu thallupadi undaa?",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-05-19T21:58:31.587823"
+    },
+    {
+      "english": "Thank you for your help.",
+      "tamil": "உங்கள் உதவிக்கு நன்றி.",
+      "transliteration": "Ungal uthavikku nandri.",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-05-19T21:58:31.587824"
     }
   ],
-  "last_updated": "2026-05-19T11:44:22.858416"
+  "last_updated": "2026-05-19T21:58:31.587826"
 }
