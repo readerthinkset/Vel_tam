@@ -2414,7 +2414,42 @@
       "transliteration": "poi varugiren, viraivil santhippom.",
       "category": "Basic Phrases",
       "generated_at": "2026-05-23T08:33:26.152042"
+    },
+    {
+      "english": "Good morning, sir.",
+      "tamil": "காலை வணக்கம், ஐயா.",
+      "transliteration": "Kaalai vanakkam, aiyaa.",
+      "category": "Time Tamil",
+      "generated_at": "2026-05-23T15:48:51.755074"
+    },
+    {
+      "english": "What time is it, please?",
+      "tamil": "மணி என்ன, தயவுசெய்து?",
+      "transliteration": "Mani enna, thayavuseidhu?",
+      "category": "Time Tamil",
+      "generated_at": "2026-05-23T15:48:51.755083"
+    },
+    {
+      "english": "It's almost noon.",
+      "tamil": "மதியம் வரப்போகிறது.",
+      "transliteration": "Madhiyam varappogiradhu.",
+      "category": "Time Tamil",
+      "generated_at": "2026-05-23T15:48:51.755085"
+    },
+    {
+      "english": "See you later, friend.",
+      "tamil": "பிறகு பார்க்கலாம், நண்பா.",
+      "transliteration": "Piragu paarkkalaam, nanbaa.",
+      "category": "Time Tamil",
+      "generated_at": "2026-05-23T15:48:51.755086"
+    },
+    {
+      "english": "It's getting late.",
+      "tamil": "நேரம் ஆகிவிட்டது.",
+      "transliteration": "Neram aagivittadhu.",
+      "category": "Time Tamil",
+      "generated_at": "2026-05-23T15:48:51.755087"
     }
   ],
-  "last_updated": "2026-05-23T08:33:26.152043"
+  "last_updated": "2026-05-23T15:48:51.755088"
 }
