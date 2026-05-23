@@ -2379,7 +2379,42 @@
       "transliteration": "tavaṟukaḷ pāṭaṅkaḷ, niṉaivil koḷḷuṅkaḷ.",
       "category": "Growth",
       "generated_at": "2026-05-22T23:50:06.498196"
+    },
+    {
+      "english": "Thank you, very kind.",
+      "tamil": "நன்றி, மிகவும் அன்பாக.",
+      "transliteration": "nanri, migavum anbaaga.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-23T08:33:26.152027"
+    },
+    {
+      "english": "Please, tell me again.",
+      "tamil": "தயவுசெய்து, எனக்கு மீண்டும் சொல்லுங்கள்.",
+      "transliteration": "thayavuseidhu, enakku meendum sollungal.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-23T08:33:26.152038"
+    },
+    {
+      "english": "Excuse me, can I ask?",
+      "tamil": "மன்னிக்கவும், நான் கேட்கலாமா?",
+      "transliteration": "mannikkavum, naan ketkalamaa?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-23T08:33:26.152039"
+    },
+    {
+      "english": "Good morning, have a nice day.",
+      "tamil": "காலை வணக்கம், இனிய நாள்.",
+      "transliteration": "kaalai vanakkam, iniya naal.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-23T08:33:26.152041"
+    },
+    {
+      "english": "Goodbye, see you soon.",
+      "tamil": "போய் வருகிறேன், விரைவில் சந்திப்போம்.",
+      "transliteration": "poi varugiren, viraivil santhippom.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-23T08:33:26.152042"
     }
   ],
-  "last_updated": "2026-05-22T23:50:06.498198"
+  "last_updated": "2026-05-23T08:33:26.152043"
 }
