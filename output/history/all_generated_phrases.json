@@ -2484,7 +2484,42 @@
       "transliteration": "Dhinamum payirchi sei, nichayam munneru.",
       "category": "Wisdom",
       "generated_at": "2026-05-23T20:13:20.879489"
+    },
+    {
+      "english": "Hello, nice to meet you.",
+      "tamil": "வணக்கம், உங்களை சந்தித்ததில் மகிழ்ச்சி.",
+      "transliteration": "vanakkam, ungalai santhithathil magizhchi",
+      "category": "Greetings",
+      "generated_at": "2026-05-27T04:23:37.466090"
+    },
+    {
+      "english": "Good morning, friend.",
+      "tamil": "காலை வணக்கம், நண்பரே.",
+      "transliteration": "kaalai vanakkam, nanbare",
+      "category": "Greetings",
+      "generated_at": "2026-05-27T04:23:37.466100"
+    },
+    {
+      "english": "How are you doing?",
+      "tamil": "நீங்கள் எப்படி இருக்கிறீர்கள்?",
+      "transliteration": "neengal eppadi irukkireergal",
+      "category": "Greetings",
+      "generated_at": "2026-05-27T04:23:37.466102"
+    },
+    {
+      "english": "Excuse me, sir.",
+      "tamil": "மன்னிக்கவும், ஐயா.",
+      "transliteration": "mannikkavum, aiya",
+      "category": "Greetings",
+      "generated_at": "2026-05-27T04:23:37.466103"
+    },
+    {
+      "english": "What is your name?",
+      "tamil": "உங்கள் பெயர் என்ன?",
+      "transliteration": "ungal peyar enna",
+      "category": "Greetings",
+      "generated_at": "2026-05-27T04:23:37.466104"
     }
   ],
-  "last_updated": "2026-05-23T20:13:20.879491"
+  "last_updated": "2026-05-27T04:23:37.466106"
 }
