@@ -2519,7 +2519,42 @@
       "transliteration": "ungal peyar enna",
       "category": "Greetings",
       "generated_at": "2026-05-27T04:23:37.466104"
+    },
+    {
+      "english": "Try this, you can do it.",
+      "tamil": "இதை முயற்சி செய், உன்னால் முடியும்.",
+      "transliteration": "ithai muyarchi sei, unnaal mudiyum.",
+      "category": "Confidence",
+      "generated_at": "2026-05-27T14:51:59.135474"
+    },
+    {
+      "english": "Don't worry, learn slowly.",
+      "tamil": "கவலைப்படாதே, மெதுவாக கற்றுக்கொள்.",
+      "transliteration": "kavalaippadaathe, methuvaaga katrukkol.",
+      "category": "Confidence",
+      "generated_at": "2026-05-27T14:51:59.135483"
+    },
+    {
+      "english": "Speak a little, feel proud.",
+      "tamil": "கொஞ்சம் பேசு, பெருமையாக உணர்.",
+      "transliteration": "konjam pesu, perumaiyaaga unar.",
+      "category": "Confidence",
+      "generated_at": "2026-05-27T14:51:59.135484"
+    },
+    {
+      "english": "Mistakes are okay, keep trying.",
+      "tamil": "தவறுகள் பரவாயில்லை, தொடர்ந்து முயற்சி செய்.",
+      "transliteration": "thavaru­gal paravaayillai, thodarnthu muyarchi sei.",
+      "category": "Confidence",
+      "generated_at": "2026-05-27T14:51:59.135485"
+    },
+    {
+      "english": "You are learning, that's great.",
+      "tamil": "நீ கற்கிறாய், அது சிறப்பு.",
+      "transliteration": "nee karkiraai, athu sirappu.",
+      "category": "Confidence",
+      "generated_at": "2026-05-27T14:51:59.135486"
     }
   ],
-  "last_updated": "2026-05-27T04:23:37.466106"
+  "last_updated": "2026-05-27T14:51:59.135488"
 }
