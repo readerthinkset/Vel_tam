@@ -2764,7 +2764,42 @@
       "transliteration": "Gavanam seluthungal, ilakkai adaiyungal.",
       "category": "Success",
       "generated_at": "2026-05-28T17:31:33.405572"
+    },
+    {
+      "english": "Hello, may I have a table?",
+      "tamil": "வணக்கம், ஒரு மேஜை கிடைக்குமா?",
+      "transliteration": "vanakkam, oru mējai kiṭaikkumā?",
+      "category": "Restaurant Tamil",
+      "generated_at": "2026-05-28T19:36:34.595999"
+    },
+    {
+      "english": "What is today's special?",
+      "tamil": "இன்றைய சிறப்பு என்ன?",
+      "transliteration": "iṉṟaiya siṟappu eṉṉa?",
+      "category": "Restaurant Tamil",
+      "generated_at": "2026-05-28T19:36:34.596011"
+    },
+    {
+      "english": "This tastes very good.",
+      "tamil": "இது மிகவும் சுவையாக இருக்கிறது.",
+      "transliteration": "ithu mikavum suvaiyāka irukkiṟathu.",
+      "category": "Restaurant Tamil",
+      "generated_at": "2026-05-28T19:36:34.596012"
+    },
+    {
+      "english": "I want water, please.",
+      "tamil": "எனக்கு தண்ணீர் வேண்டும், தயவுசெய்து.",
+      "transliteration": "eṉakku taṇṇīr vēṇṭum, tayavuseythu.",
+      "category": "Restaurant Tamil",
+      "generated_at": "2026-05-28T19:36:34.596014"
+    },
+    {
+      "english": "How much is this dish?",
+      "tamil": "இந்த உணவு எவ்வளவு?",
+      "transliteration": "intha uṇavu evvaḷavu?",
+      "category": "Restaurant Tamil",
+      "generated_at": "2026-05-28T19:36:34.596015"
     }
   ],
-  "last_updated": "2026-05-28T17:31:33.405574"
+  "last_updated": "2026-05-28T19:36:34.596017"
 }
