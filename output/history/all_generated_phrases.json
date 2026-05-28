@@ -2659,7 +2659,42 @@
       "transliteration": "Porumaiyaaga irungal, thodarndhu karka.",
       "category": "Inspiration",
       "generated_at": "2026-05-27T22:02:28.865457"
+    },
+    {
+      "english": "One, two, three, let's go.",
+      "tamil": "ஒன்று, இரண்டு, மூன்று, போகலாம்.",
+      "transliteration": "ondru, irandu, moondru, pogalaam.",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-05-28T04:14:09.938603"
+    },
+    {
+      "english": "How many, sir?",
+      "tamil": "எத்தனை, ஐயா?",
+      "transliteration": "ethanai, aiyaa?",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-05-28T04:14:09.938611"
+    },
+    {
+      "english": "Only ten, please.",
+      "tamil": "பத்து மட்டும், தயவுசெய்து.",
+      "transliteration": "paththu mattum, thayavuseydhu.",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-05-28T04:14:09.938613"
+    },
+    {
+      "english": "Five friends, talking.",
+      "tamil": "ஐந்து நண்பர்கள், பேசுகிறார்கள்.",
+      "transliteration": "aindhu nanbargal, pesugiraargal.",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-05-28T04:14:09.938614"
+    },
+    {
+      "english": "Zero is nothing.",
+      "tamil": "பூஜ்ஜியம் ஒன்றுமில்லை.",
+      "transliteration": "poojjiyam ondrumillai.",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-05-28T04:14:09.938616"
     }
   ],
-  "last_updated": "2026-05-27T22:02:28.865459"
+  "last_updated": "2026-05-28T04:14:09.938618"
 }
