@@ -2869,7 +2869,42 @@
       "transliteration": "nisaptham theḷivaik koṇḍuvarum.",
       "category": "Inner Peace",
       "generated_at": "2026-05-29T14:34:31.030243"
+    },
+    {
+      "english": "Help me, please.",
+      "tamil": "உதவி செய்யுங்கள், தயவுசெய்து.",
+      "transliteration": "udhavi seyyungal, dhayavuseydhu.",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-05-29T17:27:43.694409"
+    },
+    {
+      "english": "I need a doctor.",
+      "tamil": "எனக்கு ஒரு மருத்துவர் வேண்டும்.",
+      "transliteration": "enakku oru maruthuvar vendum.",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-05-29T17:27:43.694417"
+    },
+    {
+      "english": "Call the police.",
+      "tamil": "போலீஸை அழையுங்கள்.",
+      "transliteration": "police-ai azhaiyungal.",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-05-29T17:27:43.694419"
+    },
+    {
+      "english": "Where is the hospital?",
+      "tamil": "மருத்துவமனை எங்கே உள்ளது?",
+      "transliteration": "maruthuvamanai enge ulladhu?",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-05-29T17:27:43.694420"
+    },
+    {
+      "english": "I am lost.",
+      "tamil": "நான் தொலைந்துவிட்டேன்.",
+      "transliteration": "naan tholaindhuvitten.",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-05-29T17:27:43.694421"
     }
   ],
-  "last_updated": "2026-05-29T14:34:31.030245"
+  "last_updated": "2026-05-29T17:27:43.694423"
 }
