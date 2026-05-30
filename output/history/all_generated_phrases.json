@@ -3009,7 +3009,42 @@
       "transliteration": "Indru puthumai sei, naalai ookkamali.",
       "category": "Creativity",
       "generated_at": "2026-05-30T12:58:37.086711"
+    },
+    {
+      "english": "I am looking, for a shirt.",
+      "tamil": "நான் சட்டை தேடுகிறேன்.",
+      "transliteration": "Naan sattai thedugiren.",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-05-30T14:59:09.761048"
+    },
+    {
+      "english": "Can I try this, on?",
+      "tamil": "இதை நான் போட்டு பார்க்கலாமா?",
+      "transliteration": "Ithai naan pottu paarkalaama?",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-05-30T14:59:09.761058"
+    },
+    {
+      "english": "Do you have, this in blue?",
+      "tamil": "இது உங்களிடம் நீல நிறத்தில் உள்ளதா?",
+      "transliteration": "Ithu ungalidam neela nirathil ullathaa?",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-05-30T14:59:09.761060"
+    },
+    {
+      "english": "I want to buy, this one.",
+      "tamil": "நான் இதை வாங்க விரும்புகிறேன்.",
+      "transliteration": "Naan ithai vaanga virumbugiren.",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-05-30T14:59:09.761061"
+    },
+    {
+      "english": "Where is the changing, room?",
+      "tamil": "மாற்றும் அறை எங்கே உள்ளது?",
+      "transliteration": "Maatrum arai enge ullathu?",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-05-30T14:59:09.761062"
     }
   ],
-  "last_updated": "2026-05-30T12:58:37.086712"
+  "last_updated": "2026-05-30T14:59:09.761064"
 }
