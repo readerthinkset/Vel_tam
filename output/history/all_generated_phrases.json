@@ -3044,7 +3044,42 @@
       "transliteration": "Maatrum arai enge ullathu?",
       "category": "Shopping Tamil",
       "generated_at": "2026-05-30T14:59:09.761062"
+    },
+    {
+      "english": "Let's meet tomorrow.",
+      "tamil": "நாளை சந்திப்போம்.",
+      "transliteration": "Naalai sandhippom.",
+      "category": "Time Tamil",
+      "generated_at": "2026-05-30T18:03:17.802021"
+    },
+    {
+      "english": "It's past midnight.",
+      "tamil": "நள்ளிரவு கடந்துவிட்டது.",
+      "transliteration": "Nalliravu kadandhuvittadhu.",
+      "category": "Time Tamil",
+      "generated_at": "2026-05-30T18:03:17.802033"
+    },
+    {
+      "english": "Is it early, maybe?",
+      "tamil": "இது சீக்கிரமா, ஒருவேளை?",
+      "transliteration": "Idhu seekkiramaa, oruvelai?",
+      "category": "Time Tamil",
+      "generated_at": "2026-05-30T18:03:17.802034"
+    },
+    {
+      "english": "We have plenty of time.",
+      "tamil": "நமக்கு நிறைய நேரம் உண்டு.",
+      "transliteration": "Namakku niraiya neram undu.",
+      "category": "Time Tamil",
+      "generated_at": "2026-05-30T18:03:17.802035"
+    },
+    {
+      "english": "Let's go, now.",
+      "tamil": "போகலாம், இப்பொழுது.",
+      "transliteration": "Pogalaam, ippozhudhu.",
+      "category": "Time Tamil",
+      "generated_at": "2026-05-30T18:03:17.802037"
     }
   ],
-  "last_updated": "2026-05-30T14:59:09.761064"
+  "last_updated": "2026-05-30T18:03:17.802038"
 }
