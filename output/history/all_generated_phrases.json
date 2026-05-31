@@ -3114,7 +3114,42 @@
       "transliteration": "unnai nambu, Tamil pesu.",
       "category": "Confidence",
       "generated_at": "2026-05-31T15:11:48.413866"
+    },
+    {
+      "english": "Twenty years ago.",
+      "tamil": "இருபது வருடங்களுக்கு முன்.",
+      "transliteration": "irubadhu varudangalukku mun.",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-05-31T18:03:51.446326"
+    },
+    {
+      "english": "Thirty rupees, okay?",
+      "tamil": "முப்பது ரூபாய், சரியா?",
+      "transliteration": "mubbadhu roobai, sariyaa?",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-05-31T18:03:51.446337"
+    },
+    {
+      "english": "One hundred, amazing!",
+      "tamil": "நூறு, ஆச்சரியம்!",
+      "transliteration": "nooru, aachchariyam!",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-05-31T18:03:51.446338"
+    },
+    {
+      "english": "Four people, arrived.",
+      "tamil": "நான்கு பேர், வந்துவிட்டார்கள்.",
+      "transliteration": "naangu per, vandhuvittaargal.",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-05-31T18:03:51.446340"
+    },
+    {
+      "english": "Six days left.",
+      "tamil": "ஆறு நாட்கள் மீதம்.",
+      "transliteration": "aaru naatkal meedham.",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-05-31T18:03:51.446341"
     }
   ],
-  "last_updated": "2026-05-31T15:11:48.413868"
+  "last_updated": "2026-05-31T18:03:51.446343"
 }
