@@ -3079,7 +3079,42 @@
       "transliteration": "Pogalaam, ippozhudhu.",
       "category": "Time Tamil",
       "generated_at": "2026-05-30T18:03:17.802037"
+    },
+    {
+      "english": "Every word counts, keep going.",
+      "tamil": "ஒவ்வொரு வார்த்தையும் முக்கியம், தொடர்ந்து செல்.",
+      "transliteration": "ovvoru vaarththaiyum mukkiyam, thodarnthu sel.",
+      "category": "Confidence",
+      "generated_at": "2026-05-31T15:11:48.413852"
+    },
+    {
+      "english": "It's a new skill, be patient.",
+      "tamil": "இது ஒரு புதிய திறமை, பொறுமையாக இரு.",
+      "transliteration": "ithu oru puthiya thiramai, porumaiyaaga iru.",
+      "category": "Confidence",
+      "generated_at": "2026-05-31T15:11:48.413861"
+    },
+    {
+      "english": "Listen well, understand more.",
+      "tamil": "நன்றாக கேள், அதிகமாக புரிந்துகொள்.",
+      "transliteration": "nanraaga kel, athigamaaga purinthukol.",
+      "category": "Confidence",
+      "generated_at": "2026-05-31T15:11:48.413863"
+    },
+    {
+      "english": "Practice daily, you will improve.",
+      "tamil": "தினமும் பயிற்சி செய், நீ முன்னேறுவாய்.",
+      "transliteration": "thinamum payirchi sei, nee munneruvaai.",
+      "category": "Confidence",
+      "generated_at": "2026-05-31T15:11:48.413864"
+    },
+    {
+      "english": "Believe in yourself, speak Tamil.",
+      "tamil": "உன்னை நம்பு, தமிழ் பேசு.",
+      "transliteration": "unnai nambu, Tamil pesu.",
+      "category": "Confidence",
+      "generated_at": "2026-05-31T15:11:48.413866"
     }
   ],
-  "last_updated": "2026-05-30T18:03:17.802038"
+  "last_updated": "2026-05-31T15:11:48.413868"
 }
