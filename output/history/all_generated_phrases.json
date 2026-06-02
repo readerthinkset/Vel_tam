@@ -3254,7 +3254,42 @@
       "transliteration": "Engum, migundha magizhchi.",
       "category": "Joy",
       "generated_at": "2026-06-01T19:16:09.500073"
+    },
+    {
+      "english": "Where is the train station, please?",
+      "tamil": "ரயில் நிலையம் எங்கே, தயவுசெய்து?",
+      "transliteration": "rayil nilayam enge, thayavuseidhu?",
+      "category": "Travel Tamil",
+      "generated_at": "2026-06-02T18:00:14.336759"
+    },
+    {
+      "english": "I need a taxi, urgently.",
+      "tamil": "எனக்கு ஒரு டாக்ஸி வேண்டும், அவசரமாக.",
+      "transliteration": "enakku oru taxi vendum, avasaramaaga.",
+      "category": "Travel Tamil",
+      "generated_at": "2026-06-02T18:00:14.336769"
+    },
+    {
+      "english": "Can you show me, on the map?",
+      "tamil": "வரைபடத்தில், எனக்கு காட்ட முடியுமா?",
+      "transliteration": "varaipadathil, enakku kaatta mudiyumaa?",
+      "category": "Travel Tamil",
+      "generated_at": "2026-06-02T18:00:14.336770"
+    },
+    {
+      "english": "I want to go, to the beach.",
+      "tamil": "நான் கடற்கரைக்கு, போக விரும்புகிறேன்.",
+      "transliteration": "naan kadarkarai-kku, poga virumbugiren.",
+      "category": "Travel Tamil",
+      "generated_at": "2026-06-02T18:00:14.336772"
+    },
+    {
+      "english": "This is a beautiful place.",
+      "tamil": "இது ஒரு அழகான இடம்.",
+      "transliteration": "idhu oru azhagaana idam.",
+      "category": "Travel Tamil",
+      "generated_at": "2026-06-02T18:00:14.336773"
     }
   ],
-  "last_updated": "2026-06-01T19:16:09.500075"
+  "last_updated": "2026-06-02T18:00:14.336774"
 }
