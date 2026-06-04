@@ -3429,7 +3429,42 @@
       "transliteration": "Kalaachaaraththai aarvai, mozhiyin moolam.",
       "category": "Purpose",
       "generated_at": "2026-06-03T18:17:12.708390"
+    },
+    {
+      "english": "I forgive you, please forgive me too.",
+      "tamil": "நான் உன்னை மன்னிக்கிறேன், நீயும் என்னை மன்னி.",
+      "transliteration": "Naan unnai mannikiren, neeyum ennai manni.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-04T19:24:37.360841"
+    },
+    {
+      "english": "Let's forget the past, and move on.",
+      "tamil": "கடந்ததை மறந்து, முன்னோக்கி செல்வோம்.",
+      "transliteration": "Kadanthathai maranthu, munnoakki selvom.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-04T19:24:37.360848"
+    },
+    {
+      "english": "It's okay, we all make mistakes.",
+      "tamil": "பரவாயில்லை, நாம் அனைவரும் தவறு செய்வோம்.",
+      "transliteration": "Paravaayillai, naam anaivarum thavaru seivom.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-04T19:24:37.360849"
+    },
+    {
+      "english": "I let go of this anger, now.",
+      "tamil": "இந்த கோபத்தை இப்போது நான் விடுகிறேன்.",
+      "transliteration": "Intha kopaththai ippothu naan vidugiren.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-04T19:24:37.360851"
+    },
+    {
+      "english": "Can you please forgive what happened?",
+      "tamil": "நடந்ததை தயவுசெய்து மன்னிக்க முடியுமா?",
+      "transliteration": "Nadanthatthai thayavuseithu mannikka mudiyuma?",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-04T19:24:37.360852"
     }
   ],
-  "last_updated": "2026-06-03T18:17:12.708392"
+  "last_updated": "2026-06-04T19:24:37.360854"
 }
