@@ -3464,7 +3464,42 @@
       "transliteration": "Nadanthatthai thayavuseithu mannikka mudiyuma?",
       "category": "Forgiveness",
       "generated_at": "2026-06-04T19:24:37.360852"
+    },
+    {
+      "english": "Good morning, hope you're well.",
+      "tamil": "காலை வணக்கம், நலமா?",
+      "transliteration": "Kaalai vanakkam, nalamaa?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-05T16:26:04.097212"
+    },
+    {
+      "english": "Excuse me, where is it?",
+      "tamil": "மன்னிக்கவும், அது எங்கே?",
+      "transliteration": "Mannikkavum, adhu enge?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-05T16:26:04.097222"
+    },
+    {
+      "english": "No problem, it's okay.",
+      "tamil": "பரவாயில்லை, சாதாரணம்.",
+      "transliteration": "Paravaayillai, saatharanam.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-05T16:26:04.097223"
+    },
+    {
+      "english": "See you later, bye.",
+      "tamil": "பிறகு பார்க்கலாம், போய் வருகிறேன்.",
+      "transliteration": "Piragu paarkkalaam, poi varugirean.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-05T16:26:04.097224"
+    },
+    {
+      "english": "Can you help me?",
+      "tamil": "எனக்கு உதவ முடியுமா?",
+      "transliteration": "Enakku udhava mudiyumaa?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-05T16:26:04.097225"
     }
   ],
-  "last_updated": "2026-06-04T19:24:37.360854"
+  "last_updated": "2026-06-05T16:26:04.097226"
 }
