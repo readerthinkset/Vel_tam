@@ -3499,7 +3499,42 @@
       "transliteration": "Enakku udhava mudiyumaa?",
       "category": "Common Expressions",
       "generated_at": "2026-06-05T16:26:04.097225"
+    },
+    {
+      "english": "Fire! Fire!",
+      "tamil": "தீ! தீ!",
+      "transliteration": "thee! thee!",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-06-06T15:06:14.093875"
+    },
+    {
+      "english": "Go away!",
+      "tamil": "போய்விடு!",
+      "transliteration": "poyvidu!",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-06-06T15:06:14.093886"
+    },
+    {
+      "english": "Don't touch me.",
+      "tamil": "என்னைத் தொடாதே.",
+      "transliteration": "ennai thodadhe.",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-06-06T15:06:14.093888"
+    },
+    {
+      "english": "Is anyone there?",
+      "tamil": "யாராவது இருக்கிறீர்களா?",
+      "transliteration": "yaaravadhu irukkireergala?",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-06-06T15:06:14.093889"
+    },
+    {
+      "english": "My bag is stolen.",
+      "tamil": "என் பை திருடப்பட்டுவிட்டது.",
+      "transliteration": "en pai thirudappattuvittadhu.",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-06-06T15:06:14.093890"
     }
   ],
-  "last_updated": "2026-06-05T16:26:04.097226"
+  "last_updated": "2026-06-06T15:06:14.093892"
 }
