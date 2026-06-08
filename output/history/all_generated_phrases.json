@@ -3604,7 +3604,42 @@
       "transliteration": "Unnai nambu, unnaal mudiyum.",
       "category": "Wisdom",
       "generated_at": "2026-06-07T18:06:22.084056"
+    },
+    {
+      "english": "My father, he is strong.",
+      "tamil": "என் அப்பா, மிகவும் பலமானவர்.",
+      "transliteration": "en appa, migavum balamaanavar",
+      "category": "Family Terms",
+      "generated_at": "2026-06-08T17:01:35.785135"
+    },
+    {
+      "english": "My brother, he is funny.",
+      "tamil": "என் சகோதரன், மிகவும் வேடிக்கையானவர்.",
+      "transliteration": "en sagotharan, migavum vedikkaiyaanavar",
+      "category": "Family Terms",
+      "generated_at": "2026-06-08T17:01:35.785147"
+    },
+    {
+      "english": "My sister, she is smart.",
+      "tamil": "என் சகோதரி, மிகவும் புத்திசாலி.",
+      "transliteration": "en sagothari, migavum buthisaali",
+      "category": "Family Terms",
+      "generated_at": "2026-06-08T17:01:35.785148"
+    },
+    {
+      "english": "My grandmother, she tells stories.",
+      "tamil": "என் பாட்டி, கதை சொல்வார்.",
+      "transliteration": "en paatti, kathai solvaar",
+      "category": "Family Terms",
+      "generated_at": "2026-06-08T17:01:35.785150"
+    },
+    {
+      "english": "My grandfather, he reads books.",
+      "tamil": "என் தாத்தா, புத்தகம் படிப்பார்.",
+      "transliteration": "en thaathaa, puththagam padippaar",
+      "category": "Family Terms",
+      "generated_at": "2026-06-08T17:01:35.785151"
     }
   ],
-  "last_updated": "2026-06-07T18:06:22.084058"
+  "last_updated": "2026-06-08T17:01:35.785153"
 }
