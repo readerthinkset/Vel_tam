@@ -3814,7 +3814,42 @@
       "transliteration": "Avarudaiya thaathaa, kathai sonnaar.",
       "category": "Family Terms",
       "generated_at": "2026-09-03T22:29:00.025009"
+    },
+    {
+      "english": "Learn Tamil, speak Tamil.",
+      "tamil": "தமிழ் படி, தமிழ் பேசு.",
+      "transliteration": "Tamil padi, Tamil pesu.",
+      "category": "Purpose",
+      "generated_at": "2026-09-07T18:29:15.971187"
+    },
+    {
+      "english": "Ask questions, find answers.",
+      "tamil": "கேள்விகள் கேள், பதில்கள் கண்டுபிடி.",
+      "transliteration": "Kelvigal kel, badhilgal kandupidi.",
+      "category": "Purpose",
+      "generated_at": "2026-09-07T18:29:15.971197"
+    },
+    {
+      "english": "Listen carefully, respond clearly.",
+      "tamil": "கவனமாகக் கேள், தெளிவாகப் பதில் சொல்.",
+      "transliteration": "Kavanamaagak kel, thelivaagap badhil sol.",
+      "category": "Purpose",
+      "generated_at": "2026-09-07T18:29:15.971199"
+    },
+    {
+      "english": "Practice daily, improve quickly.",
+      "tamil": "தினமும் பயிற்சி செய், விரைவில் முன்னேறு.",
+      "transliteration": "Dhinamum payirchi sei, viraivil munneru.",
+      "category": "Purpose",
+      "generated_at": "2026-09-07T18:29:15.971200"
+    },
+    {
+      "english": "Read stories, imagine worlds.",
+      "tamil": "கதைகளைப் படி, உலகங்களை கற்பனை செய்.",
+      "transliteration": "Kadhaigalaip padi, ulagangalai karpanai sei.",
+      "category": "Purpose",
+      "generated_at": "2026-09-07T18:29:15.971201"
     }
   ],
-  "last_updated": "2026-09-03T22:29:00.025010"
+  "last_updated": "2026-09-07T18:29:15.971202"
 }
