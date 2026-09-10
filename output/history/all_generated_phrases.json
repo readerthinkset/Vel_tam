@@ -3849,7 +3849,42 @@
       "transliteration": "Kadhaigalaip padi, ulagangalai karpanai sei.",
       "category": "Purpose",
       "generated_at": "2026-09-07T18:29:15.971201"
+    },
+    {
+      "english": "Her grandmother, cooks well.",
+      "tamil": "அவருடைய பாட்டி, நன்றாக சமைப்பார்.",
+      "transliteration": "Avarudaiya paatti, nandraga samaippaar.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-10T04:10:11.866595"
+    },
+    {
+      "english": "Our uncle, is visiting us.",
+      "tamil": "எங்கள் மாமா, வருகிறார்.",
+      "transliteration": "Engal maamaa, varugiraar.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-10T04:10:11.866605"
+    },
+    {
+      "english": "Your aunt, lives nearby.",
+      "tamil": "உங்கள் அத்தை, அருகில் வசிக்கிறார்.",
+      "transliteration": "Ungal aththai, arugil vasikkiraar.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-10T04:10:11.866606"
+    },
+    {
+      "english": "My son, is playing outside.",
+      "tamil": "என் மகன், வெளியே விளையாடுகிறான்.",
+      "transliteration": "En magan, veliye vilaiyaadugiraan.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-10T04:10:11.866607"
+    },
+    {
+      "english": "Her daughter, is very smart.",
+      "tamil": "அவளுடைய மகள், மிகவும் புத்திசாலி.",
+      "transliteration": "Avaludaiya magal, migavum puththisaali.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-10T04:10:11.866608"
     }
   ],
-  "last_updated": "2026-09-07T18:29:15.971202"
+  "last_updated": "2026-09-10T04:10:11.866610"
 }
