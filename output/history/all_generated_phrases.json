@@ -3954,7 +3954,42 @@
       "transliteration": "Oru paadhaiyai kandupidi, vazhikaattu.",
       "category": "Creativity",
       "generated_at": "2026-09-26T04:33:26.699320"
+    },
+    {
+      "english": "How much is this?, please?",
+      "tamil": "இது என்ன விலை, சொல்லுங்க?",
+      "transliteration": "Idhu enna vilai, sollunga?",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-09-30T05:06:00.371839"
+    },
+    {
+      "english": "I want to buy, this.",
+      "tamil": "நான் இதை வாங்கணும்.",
+      "transliteration": "Naan idhai vaanganum.",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-09-30T05:06:00.371848"
+    },
+    {
+      "english": "Do you have, another color?",
+      "tamil": "வேற நிறம் இருக்கா?",
+      "transliteration": "Vera niram irukka?",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-09-30T05:06:00.371850"
+    },
+    {
+      "english": "Can I try, this on?",
+      "tamil": "இதை போட்டு பார்க்கலாமா?",
+      "transliteration": "Idhai pottu paarkalaama?",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-09-30T05:06:00.371851"
+    },
+    {
+      "english": "It's too expensive, for me.",
+      "tamil": "இது எனக்கு ரொம்ப விலை அதிகம்.",
+      "transliteration": "Idhu enakku romba vilai adhigam.",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-09-30T05:06:00.371853"
     }
   ],
-  "last_updated": "2026-09-26T04:33:26.699321"
+  "last_updated": "2026-09-30T05:06:00.371855"
 }
