@@ -4024,7 +4024,42 @@
       "transliteration": "Summa paarkkiren, nandri.",
       "category": "Shopping Tamil",
       "generated_at": "2026-10-04T17:55:59.626041"
+    },
+    {
+      "english": "One, two, three, go!",
+      "tamil": "ஒன்று, இரண்டு, மூன்று, போ!",
+      "transliteration": "ondru, irandu, moondru, po!",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-10-13T20:00:18.556181"
+    },
+    {
+      "english": "Ten, nine, eight, start.",
+      "tamil": "பத்து, ஒன்பது, எட்டு, தொடங்கு.",
+      "transliteration": "patthu, onbadhu, ettu, thodangu.",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-10-13T20:00:18.556193"
+    },
+    {
+      "english": "How many? Two or three?",
+      "tamil": "எத்தனை? இரண்டு அல்லது மூன்று?",
+      "transliteration": "ethanai? irandu alladhu moondru?",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-10-13T20:00:18.556194"
+    },
+    {
+      "english": "I have five fingers.",
+      "tamil": "என் கையில் ஐந்து விரல்கள்.",
+      "transliteration": "en kaiyil aindhu viralgal.",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-10-13T20:00:18.556195"
+    },
+    {
+      "english": "He bought six apples.",
+      "tamil": "அவர் ஆறு ஆப்பிள் வாங்கினார்.",
+      "transliteration": "avar aaru apple vaanginaar.",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-10-13T20:00:18.556196"
     }
   ],
-  "last_updated": "2026-10-04T17:55:59.626043"
+  "last_updated": "2026-10-13T20:00:18.556198"
 }
