@@ -536,17 +536,28 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
 
 # ============== AUDIO GENERATION ==============
 
-async def generate_single_audio(text: str, voice: str, output_path: str):
-    """Generate audio using Edge TTS"""
-    try:
-        import edge_tts
-        communicate = edge_tts.Communicate(text, voice)
-        await communicate.save(output_path)
-        return True
-    except Exception as e:
-        print(f"  TTS error: {e}")
-        return False
+def configure_edge_tts():
+    import edge_tts.constants
+    active_url = "wss://api.msedgeservices.com/tts/cognitiveservices/websocket/v1?Ocp-Apim-Subscription-Key=6A5AA1D4EAFF4E9FB37E23D68491D6F4"
+    edge_tts.constants.TRUSTED_CLIENT_TOKEN = "6A5AA1D4EAFF4E9FB37E23D68491D6F4"
+    edge_tts.constants.WSS_URL = active_url
+    edge_tts.constants.BASE_URL = active_url
 
+async def generate_single_audio(text: str, voice: str, output_path: str):
+    for attempt in range(1, 4):
+        try:
+            import edge_tts
+            configure_edge_tts()
+            communicate = edge_tts.Communicate(text, voice)
+            await communicate.save(output_path)
+            if Path(output_path).exists() and Path(output_path).stat().st_size > 100:
+                return True
+        except Exception as e:
+            print(f"  TTS error (attempt {attempt}/3): {e}")
+            if attempt < 3:
+                import asyncio
+                await asyncio.sleep(2 * attempt)
+    return False
 
 async def generate_audio_with_retries(text: str, voice: str, output_path: str, max_retries: int = 3):
     """Generate audio with retry logic for TTS failures"""
