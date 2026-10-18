@@ -4059,7 +4059,42 @@
       "transliteration": "avar aaru apple vaanginaar.",
       "category": "Numbers Tamil",
       "generated_at": "2026-10-13T20:00:18.556196"
+    },
+    {
+      "english": "We saw seven birds.",
+      "tamil": "நாங்கள் ஏழு பறவைகள் பார்த்தோம்.",
+      "transliteration": "naangal ezhu paravaigal paarththom.",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-10-18T17:00:22.258468"
+    },
+    {
+      "english": "One day, I will go.",
+      "tamil": "ஒரு நாள், நான் போவேன்.",
+      "transliteration": "oru naal, naan pooven.",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-10-18T17:00:22.258479"
+    },
+    {
+      "english": "This is number four.",
+      "tamil": "இது எண் நான்கு.",
+      "transliteration": "idhu en naangu.",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-10-18T17:00:22.258481"
+    },
+    {
+      "english": "Give me nine rupees.",
+      "tamil": "எனக்கு ஒன்பது ரூபாய் கொடு.",
+      "transliteration": "enakku onbadhu roopaai kodu.",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-10-18T17:00:22.258482"
+    },
+    {
+      "english": "My age is ten.",
+      "tamil": "என் வயது பத்து.",
+      "transliteration": "en vayadhu patthu.",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-10-18T17:00:22.258483"
     }
   ],
-  "last_updated": "2026-10-13T20:00:18.556198"
+  "last_updated": "2026-10-18T17:00:22.258485"
 }
