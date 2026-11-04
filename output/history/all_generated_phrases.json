@@ -4339,7 +4339,42 @@
       "transliteration": "amaidhiyaga uzha, nangara oivu, meendum mel",
       "category": "Success",
       "generated_at": "2026-11-04T07:00:19.706389"
+    },
+    {
+      "english": "Count to ten, breathe slowly, continue",
+      "tamil": "பத்து வரை எண்ணுங்கள், மெதுவாக சுவாசியுங்கள், தொடருங்கள்",
+      "transliteration": "paththu varai ennumkingal, methuvaaga suvaasiyungal, thodarungal",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-11-04T20:46:42.778528"
+    },
+    {
+      "english": "Start with one, then two, then three",
+      "tamil": "ஒன்றில் தொடங்குங்கள், பின்னர் இரண்டு, பின்னர் மூன்று",
+      "transliteration": "ondril thodangungal, pinnar irandu, pinnar moondru",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-11-04T20:46:42.778539"
+    },
+    {
+      "english": "Four is next, pause, then say five",
+      "tamil": "நான்கு அடுத்து, இடைவெளி, பின்னர் ஐந்து சொல்லுங்கள்",
+      "transliteration": "naanku aduththu, idaiveli, pinnar ainthu sollungal",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-11-04T20:46:42.778540"
+    },
+    {
+      "english": "Six, seven, eight, say them clearly",
+      "tamil": "ஆறு, ஏழு, எட்டு, தெளிவாக சொல்லுங்கள்",
+      "transliteration": "aaru, ezhu, ettu, thelivaaga sollungal",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-11-04T20:46:42.778542"
+    },
+    {
+      "english": "Nine is coming, take a breath, say it",
+      "tamil": "ஒன்பது வருகிறது, ஒரு மூச்சு, சொல்லுங்கள்",
+      "transliteration": "onbadhu varugiRadhu, oru moochu, sollungal",
+      "category": "Numbers Tamil",
+      "generated_at": "2026-11-04T20:46:42.778543"
     }
   ],
-  "last_updated": "2026-11-04T07:00:19.706391"
+  "last_updated": "2026-11-04T20:46:42.778544"
 }
