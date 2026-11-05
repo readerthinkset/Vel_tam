@@ -4514,7 +4514,42 @@
       "transliteration": "inre naan ennai nambugiren",
       "category": "Confidence",
       "generated_at": "2026-11-05T07:27:18.766987"
+    },
+    {
+      "english": "Hello, where is the train station, please?",
+      "tamil": "வணக்கம், ரயில் நிலையம் எங்கே, தயவு செய்து?",
+      "transliteration": "vanakkam, rayil nilaiyam enge, thayavu seithu?",
+      "category": "Travel Tamil",
+      "generated_at": "2026-11-05T20:19:14.985752"
+    },
+    {
+      "english": "I want one ticket, to Chennai, please.",
+      "tamil": "எனக்கு ஒரு டிக்கெட் வேண்டும், சென்னைக்கு, தயவு செய்து.",
+      "transliteration": "enakku oru ticket vendum, chennaikku, thayavu seithu",
+      "category": "Travel Tamil",
+      "generated_at": "2026-11-05T20:19:14.985762"
+    },
+    {
+      "english": "How much is this, in rupees?",
+      "tamil": "இதற்கு எவ்வளவு, ரூபாயில்?",
+      "transliteration": "itharku evvalavu, roopayil?",
+      "category": "Travel Tamil",
+      "generated_at": "2026-11-05T20:19:14.985763"
+    },
+    {
+      "english": "Is this bus going downtown, right now?",
+      "tamil": "இந்த பஸ் நகர மையத்திற்கு போகுமா, இப்போதே?",
+      "transliteration": "intha bus nakara maiyathirku pogumaa, ippothe?",
+      "category": "Travel Tamil",
+      "generated_at": "2026-11-05T20:19:14.985764"
+    },
+    {
+      "english": "Where is the nearest ATM, please?",
+      "tamil": "அருகிலுள்ள ஏடிஎம் எங்கே, தயவு செய்து?",
+      "transliteration": "arugilulla ATM enge, thayavu seithu?",
+      "category": "Travel Tamil",
+      "generated_at": "2026-11-05T20:19:14.985764"
     }
   ],
-  "last_updated": "2026-11-05T07:27:18.766988"
+  "last_updated": "2026-11-05T20:19:14.985766"
 }
