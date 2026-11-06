@@ -4654,7 +4654,42 @@
       "transliteration": "medhuvaaga sirippaai, indha nodiyile nee paadhugaappil",
       "category": "Inner Peace",
       "generated_at": "2026-11-06T01:09:41.393060"
+    },
+    {
+      "english": "Hello, table for two, please",
+      "tamil": "வணக்கம், இரண்டு பேருக்கான மேசை வேண்டும், தயவு செய்து",
+      "transliteration": "vanakkam, irandu perukkana mesai vendum, thayavu seidhu",
+      "category": "Restaurant Tamil",
+      "generated_at": "2026-11-06T07:26:41.729395"
+    },
+    {
+      "english": "What do you recommend today, please?",
+      "tamil": "இன்று நீங்கள் பரிந்துரைப்பது என்ன, தயவு செய்து?",
+      "transliteration": "indru neengal parindhurappadhu enna, thayavu seidhu?",
+      "category": "Restaurant Tamil",
+      "generated_at": "2026-11-06T07:26:41.729405"
+    },
+    {
+      "english": "I am allergic to peanuts, please",
+      "tamil": "எனக்கு வேர்க்கடலை அலர்ஜி, தயவு செய்து",
+      "transliteration": "enakku verkkadalai allergy, thayavu seidhu",
+      "category": "Restaurant Tamil",
+      "generated_at": "2026-11-06T07:26:41.729407"
+    },
+    {
+      "english": "No spice, please, just mild",
+      "tamil": "காரம் வேண்டாம், தயவு செய்து, மிதமானது போதும்",
+      "transliteration": "kaarom vendaam, thayavu seidhu, madhamaanadhu podhum",
+      "category": "Restaurant Tamil",
+      "generated_at": "2026-11-06T07:26:41.729408"
+    },
+    {
+      "english": "Could we have water, now, please?",
+      "tamil": "இப்போ நீர் தர முடியுமா, தயவு செய்து?",
+      "transliteration": "ippo neer thara mudiyumaa, thayavu seidhu?",
+      "category": "Restaurant Tamil",
+      "generated_at": "2026-11-06T07:26:41.729409"
     }
   ],
-  "last_updated": "2026-11-06T01:09:41.393061"
+  "last_updated": "2026-11-06T07:26:41.729410"
 }
