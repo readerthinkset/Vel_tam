@@ -4829,7 +4829,42 @@
       "transliteration": "indru thalalubadi irukkiradhaa",
       "category": "Shopping Tamil",
       "generated_at": "2026-11-07T00:22:56.705695"
+    },
+    {
+      "english": "Help me now, I need an ambulance, please.",
+      "tamil": "உதவி செய்யுங்கள், எனக்கு ஆம்புலன்ஸ் வேண்டும், தயவு செய்து.",
+      "transliteration": "udhavi seiyungal, enakku ambulans vendum, thayavu seidhu",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-11-07T06:38:56.183869"
+    },
+    {
+      "english": "Stop, there is danger here, right now.",
+      "tamil": "நிறுத்துங்கள், இங்கே ஆபத்து இருக்கிறது, இப்போதே.",
+      "transliteration": "nirthungal, inge abathu irukkirathu, ippoode",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-11-07T06:38:56.183881"
+    },
+    {
+      "english": "Call the police, quickly, please, now.",
+      "tamil": "போலீஸை அழைக்கவும், சீக்கிரம், தயவு செய்து, இப்போது.",
+      "transliteration": "polisaia azhaikkavum, seekiram, thayavu seidhu, ippodhu",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-11-07T06:38:56.183882"
+    },
+    {
+      "english": "Is there a hospital nearby, please help.",
+      "tamil": "அருகில் மருத்துவமனை இருக்கிறதா, தயவு செய்து உதவி செய்யுங்கள்.",
+      "transliteration": "arugil maruththuvamanai irukkiradhaa, thayavu seidhu udhavi seiyungal",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-11-07T06:38:56.183884"
+    },
+    {
+      "english": "I am lost, I need help, please.",
+      "tamil": "நான் தொலைந்துவிட்டேன், எனக்கு உதவி வேண்டும், தயவு செய்து.",
+      "transliteration": "naan tholaindhu vittaen, enakku udhavi vendum, thayavu seidhu",
+      "category": "Emergency Tamil",
+      "generated_at": "2026-11-07T06:38:56.183894"
     }
   ],
-  "last_updated": "2026-11-07T00:22:56.705697"
+  "last_updated": "2026-11-07T06:38:56.183896"
 }
