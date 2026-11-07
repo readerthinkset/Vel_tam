@@ -4794,7 +4794,42 @@
       "transliteration": "un kangalil, naan amaidhi kaangiraen",
       "category": "Love",
       "generated_at": "2026-11-06T22:23:07.687831"
+    },
+    {
+      "english": "Where is the nearest grocery shop?",
+      "tamil": "அருகிலுள்ள மளிகைக் கடை எங்கே?",
+      "transliteration": "arugilulla maligaik kadai enge",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-11-07T00:22:56.705683"
+    },
+    {
+      "english": "I want to buy two items.",
+      "tamil": "எனக்கு இரண்டு பொருட்கள் வேண்டும்.",
+      "transliteration": "enakku irandu porutkal vendum",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-11-07T00:22:56.705693"
+    },
+    {
+      "english": "Do you accept credit cards?",
+      "tamil": "கிரெடிட் கார்டு ஏற்கிறீர்களா?",
+      "transliteration": "credit card erkkireergala",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-11-07T00:22:56.705694"
+    },
+    {
+      "english": "Can I try this size, please?",
+      "tamil": "இந்த அளவை நான் முயற்சிக்கலாமா?",
+      "transliteration": "indha alavai naan muyarchikkalaama",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-11-07T00:22:56.705695"
+    },
+    {
+      "english": "Is there a discount today?",
+      "tamil": "இன்று தள்ளுபடி இருக்கிறதா?",
+      "transliteration": "indru thalalubadi irukkiradhaa",
+      "category": "Shopping Tamil",
+      "generated_at": "2026-11-07T00:22:56.705695"
     }
   ],
-  "last_updated": "2026-11-06T22:23:07.687832"
+  "last_updated": "2026-11-07T00:22:56.705697"
 }
