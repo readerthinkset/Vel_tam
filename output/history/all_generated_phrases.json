@@ -4969,7 +4969,42 @@
       "transliteration": "nanri, parisukku, anbudan",
       "category": "Gratitude",
       "generated_at": "2026-11-07T21:06:03.597014"
+    },
+    {
+      "english": "Hello, how are you today?",
+      "tamil": "வணக்கம், இன்று எப்படி இருக்கிறீர்கள்?",
+      "transliteration": "vanakkam, indru eppadi irukkireergal?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-07T23:59:41.973145"
+    },
+    {
+      "english": "Please speak slowly, I am learning Tamil.",
+      "tamil": "தயவுசெய்து மெதுவாக பேசுங்கள், நான் தமிழ் கற்கிறேன்.",
+      "transliteration": "thayavuseidhu medhuvaaga pesungal, naan tamil karkiren.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-07T23:59:41.973156"
+    },
+    {
+      "english": "Excuse me, where is the nearest bus stop?",
+      "tamil": "மன்னிக்கவும், அருகில் பேருந்து நிறுத்தம் எங்கே?",
+      "transliteration": "mannikkavum, arugil perundhu niruththam enge?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-07T23:59:41.973158"
+    },
+    {
+      "english": "I understand a little, please repeat that.",
+      "tamil": "எனக்கு கொஞ்சம் புரிகிறது, தயவுசெய்து மீண்டும் சொல்லுங்கள்.",
+      "transliteration": "enakku konjam purigiradhu, thayavuseidhu meendum sollungal.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-07T23:59:41.973159"
+    },
+    {
+      "english": "Thank you, you are very kind.",
+      "tamil": "நன்றி, நீங்கள் மிகவும் அன்பானவர்.",
+      "transliteration": "nandri, neengal migavum anbaanavar.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-07T23:59:41.973161"
     }
   ],
-  "last_updated": "2026-11-07T21:06:03.597016"
+  "last_updated": "2026-11-07T23:59:41.973163"
 }
