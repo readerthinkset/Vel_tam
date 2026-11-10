@@ -5459,7 +5459,42 @@
       "transliteration": "Pidithu kol, sirandhadhu munnaal irukkiradhu.",
       "category": "Strength",
       "generated_at": "2026-11-10T19:15:56.590900"
+    },
+    {
+      "english": "Hi, do you have a table for two?",
+      "tamil": "வணக்கம், இருவருக்கு மேஜை இருக்கா?",
+      "transliteration": "Vanakkam, iruvarukku mejai irukkaa?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-10T20:41:28.882047"
+    },
+    {
+      "english": "What do you recommend here today?",
+      "tamil": "இங்கே இன்று எதைச் சிபாரிசு செய்கிறீர்கள்?",
+      "transliteration": "Inge indru ethai subaarisu seigirīrgal?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-10T20:41:28.882058"
+    },
+    {
+      "english": "I am vegetarian, do you have options?",
+      "tamil": "நான் சைவம், உங்களிடம் விருப்பங்கள் உள்ளதா?",
+      "transliteration": "Naan saivam, unggaிடam viruppangal ulladhaa?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-10T20:41:28.882059"
+    },
+    {
+      "english": "No onions, please, I have allergies.",
+      "tamil": "வெங்காயம் வேண்டாம், எனக்கு அலர்ஜி இருக்கிறது.",
+      "transliteration": "Vengayam vendam, enakku allergy irukkiradhu.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-10T20:41:28.882060"
+    },
+    {
+      "english": "How spicy is this dish?",
+      "tamil": "இந்தக் கறி எவ்வளவு காரமா?",
+      "transliteration": "Indha kari evvalavu kaarama?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-10T20:41:28.882061"
     }
   ],
-  "last_updated": "2026-11-10T19:15:56.590902"
+  "last_updated": "2026-11-10T20:41:28.882063"
 }
