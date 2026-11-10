@@ -244,7 +244,11 @@
   function layoutTiles(text) {
     const box = $('natText');
     const words = T.language.char_tiles
-      ? Array.from(String(text).replace(/\s+/g, ''))
+      ? Array.from(String(text).replace(/\s+/g, '')).reduce((acc, ch) => {
+          if (/[\p{P}\p{S}]/u.test(ch) && acc.length) acc[acc.length - 1] += ch;
+          else acc.push(ch);
+          return acc;
+        }, [])
       : String(text).split(/\s+/).filter(Boolean);
     box.dir = T.language.rtl ? 'rtl' : 'ltr';
     box.classList.remove('lines');

@@ -5,6 +5,7 @@ from __future__ import annotations
 import asyncio
 import re
 import subprocess
+import unicodedata
 from pathlib import Path
 
 import edge_tts
@@ -100,7 +101,14 @@ async def _synth_with_retry(text: str, voices: list[str], out_path: Path, rate: 
 
 def map_word_timings(text: str, boundaries: list, duration: float) -> list:
     if config.LANGUAGE.get("char_tiles"):
-        words = [c for c in text if not c.isspace()]
+        words = []
+        for ch in text:
+            if ch.isspace():
+                continue
+            if unicodedata.category(ch).startswith(("P", "S")) and words:
+                words[-1] += ch
+            else:
+                words.append(ch)
     else:
         words = text.split()
     if not words:
