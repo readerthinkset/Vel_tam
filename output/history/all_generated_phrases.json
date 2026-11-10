@@ -5494,7 +5494,42 @@
       "transliteration": "Indha kari evvalavu kaarama?",
       "category": "Restaurant",
       "generated_at": "2026-11-10T20:41:28.882061"
+    },
+    {
+      "english": "I’m learning Tamil, please help me.",
+      "tamil": "நான் தமிழ் கற்றுக் கொண்டிருக்கிறேன், தயவு செய்து உதவுங்கள்.",
+      "transliteration": "naan thamizh katru kondirukkiren, thayavu seidhu udhavungal.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-10T22:01:00.900203"
+    },
+    {
+      "english": "Do you speak English?",
+      "tamil": "நீங்கள் ஆங்கிலம் பேசுவீர்களா?",
+      "transliteration": "neengal aṅkiliṅam pesuveergalaa?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-10T22:01:00.900217"
+    },
+    {
+      "english": "My name is Anu, nice to meet.",
+      "tamil": "என் பெயர் அனு, சந்திப்பதில் மகிழ்ச்சி.",
+      "transliteration": "en peyar Anu, sandhippadil magizhchi.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-10T22:01:00.900219"
+    },
+    {
+      "english": "I don’t understand, can you slow down?",
+      "tamil": "எனக்கு புரியவில்லை, கொஞ்சம் மெதுவாகச் சொல்லுங்கள்.",
+      "transliteration": "enakku puriyavillai, konjam medhuvaagach sollungal.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-10T22:01:00.900221"
+    },
+    {
+      "english": "How much is this?",
+      "tamil": "இது எவ்வளவு விலை?",
+      "transliteration": "idhu evvaḷavu vilai?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-10T22:01:00.900222"
     }
   ],
-  "last_updated": "2026-11-10T20:41:28.882063"
+  "last_updated": "2026-11-10T22:01:00.900224"
 }
