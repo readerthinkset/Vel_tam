@@ -5529,7 +5529,42 @@
       "transliteration": "idhu evvaḷavu vilai?",
       "category": "Basic Phrases",
       "generated_at": "2026-11-10T22:01:00.900222"
+    },
+    {
+      "english": "Thank you, sincerely, for helping me.",
+      "tamil": "எனக்கு உதவியதற்கு, மனமார்ந்த நன்றி.",
+      "transliteration": "enakku udhaviyadharku, manamaarndha nandri.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T00:30:43.910651"
+    },
+    {
+      "english": "Slow down, I’ll share the path.",
+      "tamil": "சற்று மெதுவாக, நான் பாதை பகிர்கிறேன்.",
+      "transliteration": "satru medhuvaaga, naan paadhai pagirugiren.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T00:30:43.910664"
+    },
+    {
+      "english": "You’re doing well, keep going.",
+      "tamil": "நீங்கள் நன்றாக செய்கிறீர்கள், தொடருங்கள்.",
+      "transliteration": "neengal nandraaga seigirீrgaL, thodarungal.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T00:30:43.910666"
+    },
+    {
+      "english": "Let me carry that for you.",
+      "tamil": "அதை உங்கள் பாரம் குறைக்க நான் எடுத்துக்கொள்கிறேன்.",
+      "transliteration": "adhai ungal baaram kuraikka naan eduthukolgiren.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T00:30:43.910668"
+    },
+    {
+      "english": "It’s okay, we’ll figure it out.",
+      "tamil": "பரவாயில்லை, நாம் சரி செய்து பார்ப்போம்.",
+      "transliteration": "paravaayillai, naam sari seidhu paarppom.",
+      "category": "Kindness",
+      "generated_at": "2026-11-11T00:30:43.910669"
     }
   ],
-  "last_updated": "2026-11-10T22:01:00.900224"
+  "last_updated": "2026-11-11T00:30:43.910671"
 }
