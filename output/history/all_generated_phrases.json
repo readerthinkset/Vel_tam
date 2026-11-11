@@ -5634,7 +5634,42 @@
       "transliteration": "Un thoduthal en kavalaigalai maraiyach seigirathu.",
       "category": "Love",
       "generated_at": "2026-11-11T19:12:26.489032"
+    },
+    {
+      "english": "Help me, I need assistance now.",
+      "tamil": "உதவி செய்யுங்கள், எனக்கு உடனடி உதவி வேண்டும்.",
+      "transliteration": "Uthavi seiyungal, enakku udanadi uthavi vaendum.",
+      "category": "Emergency",
+      "generated_at": "2026-11-11T21:02:02.217587"
+    },
+    {
+      "english": "Stop, please, something is happening!",
+      "tamil": "நிறுத்துங்கள், தயவு செய்து, ஏதோ நடக்கிறது!",
+      "transliteration": "Niruthungal, thayavu seithu, edho nadakkirathu!",
+      "category": "Emergency",
+      "generated_at": "2026-11-11T21:02:02.217600"
+    },
+    {
+      "english": "Call an ambulance, right now, please.",
+      "tamil": "உடனே ஆம்புலன்ஸ் அழையுங்கள், தயவு செய்து.",
+      "transliteration": "Udane ambulance azhaingal, thayavu seiyungal.",
+      "category": "Emergency",
+      "generated_at": "2026-11-11T21:02:02.217602"
+    },
+    {
+      "english": "Is anyone hurt? Please check.",
+      "tamil": "யாருக்காவது காயம் இருக்கிறதா, தயவு செய்து பாருங்கள்.",
+      "transliteration": "Yaarukkavathu kaayam irukkirathaa, thayavu seiyungal paarungal.",
+      "category": "Emergency",
+      "generated_at": "2026-11-11T21:02:02.217603"
+    },
+    {
+      "english": "Fire! Get out quickly, please.",
+      "tamil": "தீ! சீக்கிரம் வெளியேறுங்கள், தயவு செய்து.",
+      "transliteration": "Thee! Seekiram veliyeirungal, thayavu seiyungal.",
+      "category": "Emergency",
+      "generated_at": "2026-11-11T21:02:02.217605"
     }
   ],
-  "last_updated": "2026-11-11T19:12:26.489034"
+  "last_updated": "2026-11-11T21:02:02.217607"
 }
