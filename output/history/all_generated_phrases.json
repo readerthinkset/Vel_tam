@@ -5739,7 +5739,42 @@
       "transliteration": "naan pazhivaanguvadhai vida mannippai therivu seikiren.",
       "category": "Forgiveness",
       "generated_at": "2026-11-12T01:54:23.119453"
+    },
+    {
+      "english": "Hi! I’m glad to see you.",
+      "tamil": "வணக்கம்! உங்களைப் பார்த்ததில் மகிழ்ச்சி.",
+      "transliteration": "Vaṇakkam! Uṅkaḷai pārthathil magizhchi.",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T05:21:22.524567"
+    },
+    {
+      "english": "Good afternoon, how’s everything going?",
+      "tamil": "மதிய வணக்கம், எல்லாம் எப்படி போகிறது?",
+      "transliteration": "Madhya vaṇakkam, ellām eppadi pōgiradhu?",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T05:21:22.524579"
+    },
+    {
+      "english": "Hey there, hope you’re doing well.",
+      "tamil": "ஹே, நீங்கள் நன்றாக இருக்க வேண்டும்.",
+      "transliteration": "Hē, nīṅgaḷ naṉḍāka irukka vēṇum.",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T05:21:22.524581"
+    },
+    {
+      "english": "Welcome back, so good to see you.",
+      "tamil": "மீண்டும் வரவேற்கிறேன், உங்களைப் பார்க்க நன்றாக உள்ளது.",
+      "transliteration": "Mīṇdum varavērkirēn, uṅkaḷai pārkka naṉḍāka ulladhu.",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T05:21:22.524583"
+    },
+    {
+      "english": "Peace be with you, my friend.",
+      "tamil": "உங்களுடன் அமைதி இருக்கட்டும், நண்பரே.",
+      "transliteration": "Uṅgaḷuṭan amaidhi irukkattum, naṇparē.",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T05:21:22.524584"
     }
   ],
-  "last_updated": "2026-11-12T01:54:23.119455"
+  "last_updated": "2026-11-12T05:21:22.524586"
 }
