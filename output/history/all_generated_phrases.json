@@ -5774,7 +5774,42 @@
       "transliteration": "Uṅgaḷuṭan amaidhi irukkattum, naṇparē.",
       "category": "Greetings",
       "generated_at": "2026-11-12T05:21:22.524584"
+    },
+    {
+      "english": "What time is it now?",
+      "tamil": "இப்போ நேரம் என்ன?",
+      "transliteration": "ippo naeram enna?",
+      "category": "Time",
+      "generated_at": "2026-11-12T19:30:24.859304"
+    },
+    {
+      "english": "It’s five o’clock now.",
+      "tamil": "இப்போ ஐந்து மணி.",
+      "transliteration": "ippo ainthu mani.",
+      "category": "Time",
+      "generated_at": "2026-11-12T19:30:24.859316"
+    },
+    {
+      "english": "Is it morning already?",
+      "tamil": "காலை ஏற்கனவே ஆகிட்டதா?",
+      "transliteration": "kaalai aerkanavae aakittathaa?",
+      "category": "Time",
+      "generated_at": "2026-11-12T19:30:24.859318"
+    },
+    {
+      "english": "I’ll be there in ten minutes.",
+      "tamil": "பத்து நிமிஷத்தில் நான் அங்கே இருப்பேன்.",
+      "transliteration": "paththu nimishathil naan angae iruppaen.",
+      "category": "Time",
+      "generated_at": "2026-11-12T19:30:24.859320"
+    },
+    {
+      "english": "Wait, just one moment.",
+      "tamil": "ஒரு நிமிஷம், காத்திரு.",
+      "transliteration": "oru nimisham, kaaththiru.",
+      "category": "Time",
+      "generated_at": "2026-11-12T19:30:24.859321"
     }
   ],
-  "last_updated": "2026-11-12T05:21:22.524586"
+  "last_updated": "2026-11-12T19:30:24.859323"
 }
