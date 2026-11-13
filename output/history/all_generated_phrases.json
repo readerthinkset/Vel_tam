@@ -5949,7 +5949,42 @@
       "transliteration": "Enakku aindhu roopai, thayavu seidhu.",
       "category": "Numbers",
       "generated_at": "2026-11-13T04:36:46.464648"
+    },
+    {
+      "english": "Do you have this in blue?",
+      "tamil": "இதைக் நீல நிறத்தில் இருக்கா?",
+      "transliteration": "Idhaik neela nirathil irukkaa?",
+      "category": "Shopping",
+      "generated_at": "2026-11-13T19:08:29.579053"
+    },
+    {
+      "english": "What size do you have?",
+      "tamil": "உங்களிடம் என்ன சைஸ் இருக்கிறது?",
+      "transliteration": "Ungalidam enna size irukkiradhu?",
+      "category": "Shopping",
+      "generated_at": "2026-11-13T19:08:29.579066"
+    },
+    {
+      "english": "I’ll take this one, please.",
+      "tamil": "இதை எடுத்துக்கொள்கிறேன், தயவு செய்து.",
+      "transliteration": "Idhai eduthukolgiren, thayavu seidhu.",
+      "category": "Shopping",
+      "generated_at": "2026-11-13T19:08:29.579068"
+    },
+    {
+      "english": "Is it good quality?",
+      "tamil": "இது நல்ல தரமா?",
+      "transliteration": "Idhu nalla tharamaa?",
+      "category": "Shopping",
+      "generated_at": "2026-11-13T19:08:29.579070"
+    },
+    {
+      "english": "Is there any warranty?",
+      "tamil": "இதுக்கு வாரண்டி இருக்கா?",
+      "transliteration": "Idhuku vaarandi irukkaa?",
+      "category": "Shopping",
+      "generated_at": "2026-11-13T19:08:29.579071"
     }
   ],
-  "last_updated": "2026-11-13T04:36:46.464650"
+  "last_updated": "2026-11-13T19:08:29.579074"
 }
