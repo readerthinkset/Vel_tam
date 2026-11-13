@@ -6019,7 +6019,42 @@
       "transliteration": "Thayavu seydhu, oru thaṇṇīr pāṭṭil vēṇdum.",
       "category": "Travel",
       "generated_at": "2026-11-13T20:44:04.685745"
+    },
+    {
+      "english": "Where are you going today?",
+      "tamil": "இன்று நீங்கள் எங்கே போகிறீர்கள்?",
+      "transliteration": "Inru neengaL engae pogiReergaL?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-13T22:17:19.073030"
+    },
+    {
+      "english": "I am looking for this address.",
+      "tamil": "இந்த முகவரியை நான் தேடுகிறேன்.",
+      "transliteration": "Indha mugavariyai naan thaedugirean.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-13T22:17:19.073048"
+    },
+    {
+      "english": "How much does this cost?",
+      "tamil": "இதற்கு எவ்வளவு ஆகும்?",
+      "transliteration": "Idharku evvaLavu aagum?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-13T22:17:19.073050"
+    },
+    {
+      "english": "Is it far from here?",
+      "tamil": "இது இங்கிருந்து தூரமா?",
+      "transliteration": "Idhu ingirundhu dhoorama?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-13T22:17:19.073052"
+    },
+    {
+      "english": "Can I have some water, please?",
+      "tamil": "தயவு செய்து, எனக்கு கொஞ்சம் தண்ணீர் தருமா?",
+      "transliteration": "Thayavu seydhu, enakku konjam thaNNee ra tharuma?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-13T22:17:19.073053"
     }
   ],
-  "last_updated": "2026-11-13T20:44:04.685750"
+  "last_updated": "2026-11-13T22:17:19.073056"
 }
