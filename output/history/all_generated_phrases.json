@@ -5984,7 +5984,42 @@
       "transliteration": "Idhuku vaarandi irukkaa?",
       "category": "Shopping",
       "generated_at": "2026-11-13T19:08:29.579071"
+    },
+    {
+      "english": "Hello, where is the bus stop?",
+      "tamil": "வணக்கம், பஸ் நிறுத்தம் எங்கே?",
+      "transliteration": "Vanakkam, bus niruttam enge?",
+      "category": "Travel",
+      "generated_at": "2026-11-13T20:44:04.685729"
+    },
+    {
+      "english": "Excuse me, can you help me?",
+      "tamil": "மன்னிக்கவும், நீங்கள் உதவ முடியுமா?",
+      "transliteration": "Mannikkavum, neengaḷ udhava mudiyumaa?",
+      "category": "Travel",
+      "generated_at": "2026-11-13T20:44:04.685740"
+    },
+    {
+      "english": "I want to go to the station.",
+      "tamil": "எனக்கு ரயில் நிலையம் போகணும்.",
+      "transliteration": "Enakku rayil nilaiyam poganum.",
+      "category": "Travel",
+      "generated_at": "2026-11-13T20:44:04.685742"
+    },
+    {
+      "english": "Is there a cheaper option?",
+      "tamil": "இதுக்கு மலிவான வழி இருக்கா?",
+      "transliteration": "Idhukku malivāna vazhi irukka?",
+      "category": "Travel",
+      "generated_at": "2026-11-13T20:44:04.685744"
+    },
+    {
+      "english": "Please, one water bottle, okay?",
+      "tamil": "தயவு செய்து, ஒரு தண்ணீர் பாட்டில் வேண்டும்.",
+      "transliteration": "Thayavu seydhu, oru thaṇṇīr pāṭṭil vēṇdum.",
+      "category": "Travel",
+      "generated_at": "2026-11-13T20:44:04.685745"
     }
   ],
-  "last_updated": "2026-11-13T19:08:29.579074"
+  "last_updated": "2026-11-13T20:44:04.685750"
 }
