@@ -5914,7 +5914,42 @@
       "transliteration": "Uṇavaip pakirungal, mazhizhchiyaiyum pakirungal.",
       "category": "Wisdom",
       "generated_at": "2026-11-13T00:58:32.343470"
+    },
+    {
+      "english": "I have one apple, today.",
+      "tamil": "எனக்கு ஒரு ஆப்பிள், இன்று.",
+      "transliteration": "Enakku oru apple, indru.",
+      "category": "Numbers",
+      "generated_at": "2026-11-13T04:36:46.464629"
+    },
+    {
+      "english": "Bring two cups, please.",
+      "tamil": "இரண்டு கப்புகள் கொண்டு வாருங்கள், தயவு செய்து.",
+      "transliteration": "Irandu kappukal kondu vaarungal, thayavu seidhu.",
+      "category": "Numbers",
+      "generated_at": "2026-11-13T04:36:46.464644"
+    },
+    {
+      "english": "I want three bananas, now.",
+      "tamil": "எனக்கு மூன்று வாழைப்பழங்கள் வேண்டும், இப்போது.",
+      "transliteration": "Enakku moondru vaazhaippazhangal vendum, ippo.",
+      "category": "Numbers",
+      "generated_at": "2026-11-13T04:36:46.464646"
+    },
+    {
+      "english": "We need four chairs, quickly.",
+      "tamil": "எங்களுக்கு நான்கு நாற்காலிகள் வேண்டும், சீக்கிரம்.",
+      "transliteration": "Engalukku naanku naarkaaligal vendum, seekiram.",
+      "category": "Numbers",
+      "generated_at": "2026-11-13T04:36:46.464647"
+    },
+    {
+      "english": "Give me five rupees, please.",
+      "tamil": "எனக்கு ஐந்து ரூபாய், தயவு செய்து.",
+      "transliteration": "Enakku aindhu roopai, thayavu seidhu.",
+      "category": "Numbers",
+      "generated_at": "2026-11-13T04:36:46.464648"
     }
   ],
-  "last_updated": "2026-11-13T00:58:32.343472"
+  "last_updated": "2026-11-13T04:36:46.464650"
 }
