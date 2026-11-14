@@ -6054,7 +6054,42 @@
       "transliteration": "Thayavu seydhu, enakku konjam thaNNee ra tharuma?",
       "category": "Common Expressions",
       "generated_at": "2026-11-13T22:17:19.073053"
+    },
+    {
+      "english": "Wait quietly, let it settle.",
+      "tamil": "அமைதியாக காத்திருங்கள், அது நிலையாகும்.",
+      "transliteration": "Amaidhiyaga kaathirungal, adhu nilaigaagum.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T00:49:00.616204"
+    },
+    {
+      "english": "Take your time, keep going.",
+      "tamil": "உங்கள் நேரத்தை எடுத்துக்கொள்ளுங்கள், தொடருங்கள்.",
+      "transliteration": "Ungal neraththai eduthukkollungal, thodarungal.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T00:49:00.616215"
+    },
+    {
+      "english": "Patience helps, even now.",
+      "tamil": "பொறுமை உதவும், இப்போது கூட.",
+      "transliteration": "Porumai uthavum, ippodhu kooda.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T00:49:00.616217"
+    },
+    {
+      "english": "I’ll wait, you’re learning.",
+      "tamil": "நான் காத்திருப்பேன், நீங்கள் கற்றுக்கொண்டிருக்கிறீர்கள்.",
+      "transliteration": "Naan kaathiruppen, neengal katthukkondirukkireergal.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T00:49:00.616219"
+    },
+    {
+      "english": "Don’t worry, tomorrow will come.",
+      "tamil": "கவலை வேண்டாம், நாளை வரும்.",
+      "transliteration": "Kavalai vendaam, naalai varum.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T00:49:00.616220"
     }
   ],
-  "last_updated": "2026-11-13T22:17:19.073056"
+  "last_updated": "2026-11-14T00:49:00.616222"
 }
