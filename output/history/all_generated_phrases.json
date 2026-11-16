@@ -6509,7 +6509,42 @@
       "transliteration": "Paghira iraṇdu thosai kidaikkumaa?",
       "category": "Restaurant",
       "generated_at": "2026-11-16T21:35:25.842116"
+    },
+    {
+      "english": "You’re improving, one conversation at a time.",
+      "tamil": "நீங்கள் மேம்படுகிறீர்கள், ஒரே உரையாடலால்.",
+      "transliteration": "neengaL meymbattukiReergaL, orE uraiyaaDalāl.",
+      "category": "Success",
+      "generated_at": "2026-11-16T23:11:07.469650"
+    },
+    {
+      "english": "Tamil sounds easier, the more you speak.",
+      "tamil": "தமிழ் இன்னும் எளிதாகிறது, நீங்கள் பேசும்போது.",
+      "transliteration": "thamizh innum eLidhaagkkiRathu, neengaL pEsumbOdhu.",
+      "category": "Success",
+      "generated_at": "2026-11-16T23:11:07.469665"
+    },
+    {
+      "english": "Keep your mind open, learn happily.",
+      "tamil": "மனதை திறந்துவையுங்கள், மகிழ்ச்சியுடன் கற்றுக்கொள்ளுங்கள்.",
+      "transliteration": "manadhai thiRandhu vaiyungaL, magizchchiyudan kaRRukkollungaL.",
+      "category": "Success",
+      "generated_at": "2026-11-16T23:11:07.469668"
+    },
+    {
+      "english": "Speak slowly, your meaning will land.",
+      "tamil": "மெதுவாக பேசுங்கள், உங்கள் கருத்து கிடைக்கும்.",
+      "transliteration": "medhuvaaG pEsungaL, ungal karuththu kidaikkum.",
+      "category": "Success",
+      "generated_at": "2026-11-16T23:11:07.469670"
+    },
+    {
+      "english": "Ask questions, then practice the answers.",
+      "tamil": "கேள்விகள் கேளுங்கள், பிறகு பதில்களைப் பயிற்சி செய்யுங்கள்.",
+      "transliteration": "kElvigaL kEllungaL, piRagu badhilkaLaip payirchi seyyungaL.",
+      "category": "Success",
+      "generated_at": "2026-11-16T23:11:07.469672"
     }
   ],
-  "last_updated": "2026-11-16T21:35:25.842117"
+  "last_updated": "2026-11-16T23:11:07.469674"
 }
