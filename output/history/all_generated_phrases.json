@@ -6474,7 +6474,42 @@
       "transliteration": "Unakkுத் therinthathai payaṉpaṭuththuṅkaḷ, kaaththirukkaathē.",
       "category": "Purpose",
       "generated_at": "2026-11-16T04:18:46.660213"
+    },
+    {
+      "english": "Hi, can I see your menu, please?",
+      "tamil": "வணக்கம், தயவுசெய்து உங்கள் மெனு காணலாமா?",
+      "transliteration": "Vaṇakkam, dayavuseidhu ungha menu kaaṇalaamaa?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-16T21:35:25.842101"
+    },
+    {
+      "english": "How much is the biryani here?",
+      "tamil": "இந்த பிரி யாணி எவ்வளவு விலை?",
+      "transliteration": "Indha briyāni evvaḷavu vilai?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-16T21:35:25.842112"
+    },
+    {
+      "english": "Is the rice fresh, right now?",
+      "tamil": "இப்போ அரிசி புதுசா இருக்கா?",
+      "transliteration": "Ippo arisi pudhusaa irukkaa?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-16T21:35:25.842114"
+    },
+    {
+      "english": "I’m ready to order, please.",
+      "tamil": "நான் ஆர்டர் செய்ய தயாராக இருக்கேன், தயவு செய்து.",
+      "transliteration": "Naan ārṭar seiya thaayaaraaga irukkeen, dayavu seiythu.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-16T21:35:25.842115"
+    },
+    {
+      "english": "Can we get two dosas to share?",
+      "tamil": "பகிர இரண்டு தோசை கிடைக்குமா?",
+      "transliteration": "Paghira iraṇdu thosai kidaikkumaa?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-16T21:35:25.842116"
     }
   ],
-  "last_updated": "2026-11-16T04:18:46.660215"
+  "last_updated": "2026-11-16T21:35:25.842117"
 }
