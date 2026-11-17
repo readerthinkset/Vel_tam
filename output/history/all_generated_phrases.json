@@ -6544,7 +6544,42 @@
       "transliteration": "kElvigaL kEllungaL, piRagu badhilkaLaip payirchi seyyungaL.",
       "category": "Success",
       "generated_at": "2026-11-16T23:11:07.469672"
+    },
+    {
+      "english": "My mother, please help me today.",
+      "tamil": "என் அம்மா, இன்று எனக்கு உதவுங்கள்.",
+      "transliteration": "en ammaa, indru enakku udhavungal.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-17T00:32:59.460543"
+    },
+    {
+      "english": "My father, can you fix this?",
+      "tamil": "என் அப்பா, இதை சரி பண்ணலாமா?",
+      "transliteration": "en appaa, idhai sari pannalaamaa?",
+      "category": "Family Terms",
+      "generated_at": "2026-11-17T00:32:59.460554"
+    },
+    {
+      "english": "My older brother, teach me Tamil.",
+      "tamil": "என் அண்ணா, தமிழ் சொல்லித் தாருங்கள்.",
+      "transliteration": "en annaa, tamil sollith thaarungal.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-17T00:32:59.460555"
+    },
+    {
+      "english": "My younger brother, wait for me.",
+      "tamil": "என் தம்பி, கொஞ்சம் காத்திருங்கள்.",
+      "transliteration": "en thambi, konjam kaathirungal.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-17T00:32:59.460556"
+    },
+    {
+      "english": "My sister, come sit with us.",
+      "tamil": "என் அக்கா, எங்களோட சேர்ந்து உட்காருங்க.",
+      "transliteration": "en akkaa, engaloda serndhu udkaarunga.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-17T00:32:59.460557"
     }
   ],
-  "last_updated": "2026-11-16T23:11:07.469674"
+  "last_updated": "2026-11-17T00:32:59.460558"
 }
