@@ -6719,7 +6719,42 @@
       "transliteration": "Neengal engirunthu vanthீrgal?",
       "category": "Basic Phrases",
       "generated_at": "2026-11-17T21:59:56.167576"
+    },
+    {
+      "english": "I feel lucky, to love you.",
+      "tamil": "உன்னை நேசிக்கிறதுக்கு நான் அதிர்ஷ்டசாலி.",
+      "transliteration": "unnai nesikkiradhukku naan athirshdasaali",
+      "category": "Love",
+      "generated_at": "2026-11-17T23:42:14.206294"
+    },
+    {
+      "english": "Your name is my happy thought.",
+      "tamil": "உன் பெயர், என் மகிழ்ச்சி நினைப்பு.",
+      "transliteration": "un peyar, en magizhchi ninaippu",
+      "category": "Love",
+      "generated_at": "2026-11-17T23:42:14.206305"
+    },
+    {
+      "english": "When you smile, my worries lessen.",
+      "tamil": "நீ சிரிக்கும்போது, என் கவலைகள் குறையும்.",
+      "transliteration": "nee sirikkumbodhu, en kavalaiygal kuraiyum",
+      "category": "Love",
+      "generated_at": "2026-11-17T23:42:14.206307"
+    },
+    {
+      "english": "I want to hear you, always.",
+      "tamil": "நான் எப்போதும் உன் குரலை கேட்கவேண்டும்.",
+      "transliteration": "naan eppodhum un kuralai ketkavendum",
+      "category": "Love",
+      "generated_at": "2026-11-17T23:42:14.206309"
+    },
+    {
+      "english": "Let me love you, in small ways.",
+      "tamil": "சிறு வழிகளில் உன்னை நேசிக்கட்டுமா.",
+      "transliteration": "siru vazhigalil unnai nesikkattumaa",
+      "category": "Love",
+      "generated_at": "2026-11-17T23:42:14.206310"
     }
   ],
-  "last_updated": "2026-11-17T21:59:56.167578"
+  "last_updated": "2026-11-17T23:42:14.206311"
 }
