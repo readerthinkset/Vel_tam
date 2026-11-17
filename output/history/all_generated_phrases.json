@@ -6684,7 +6684,42 @@
       "transliteration": "bisi-yā irundālum methuvā pēsu.",
       "category": "Kindness",
       "generated_at": "2026-11-17T20:25:43.581166"
+    },
+    {
+      "english": "I’m fine, thank you.",
+      "tamil": "நான் நல்லாயிருக்கிறேன், நன்றி.",
+      "transliteration": "Naan nallaa irukkiren, nandri.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-17T21:59:56.167557"
+    },
+    {
+      "english": "What time is it?",
+      "tamil": "இப்போது மணி எத்தனை?",
+      "transliteration": "Ippōthu maṇi eththanai?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-17T21:59:56.167573"
+    },
+    {
+      "english": "Is this seat taken?",
+      "tamil": "இந்த இருக்கை காலியா?",
+      "transliteration": "Intha irukkai kaliya?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-17T21:59:56.167574"
+    },
+    {
+      "english": "I like this place.",
+      "tamil": "இந்த இடம் எனக்கு பிடிக்கும்.",
+      "transliteration": "Intha idam enakku pidikkum.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-17T21:59:56.167575"
+    },
+    {
+      "english": "Where are you from?",
+      "tamil": "நீங்கள் எங்கிருந்து வந்தீர்கள்?",
+      "transliteration": "Neengal engirunthu vanthீrgal?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-17T21:59:56.167576"
     }
   ],
-  "last_updated": "2026-11-17T20:25:43.581167"
+  "last_updated": "2026-11-17T21:59:56.167578"
 }
