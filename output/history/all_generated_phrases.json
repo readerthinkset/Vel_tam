@@ -6754,7 +6754,42 @@
       "transliteration": "siru vazhigalil unnai nesikkattumaa",
       "category": "Love",
       "generated_at": "2026-11-17T23:42:14.206310"
+    },
+    {
+      "english": "You can handle this conversation, step by step.",
+      "tamil": "இந்த உரையாடலை நீங்கள் சமாளிக்கலாம், கொஞ்சம் கொஞ்சமாக.",
+      "transliteration": "Intha uraiyadalai neenga samalikkalaam, konjam konjamaaga.",
+      "category": "Confidence",
+      "generated_at": "2026-11-18T02:16:07.726994"
+    },
+    {
+      "english": "Say it again, your confidence grows.",
+      "tamil": "மீண்டும் சொல்லுங்கள், உங்கள் நம்பிக்கை வளரும்.",
+      "transliteration": "Meendum sollungal, ungal nambikkai valarum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-18T02:16:07.727007"
+    },
+    {
+      "english": "Use short phrases, you’ll get there.",
+      "tamil": "குறுகிய சொற்றொடர்கள் பயன்படுத்துங்கள், நீங்கள் அடைவீர்கள்.",
+      "transliteration": "Kurukkiya sotrodargal payanpaduthungal, neenga adaiveergal.",
+      "category": "Confidence",
+      "generated_at": "2026-11-18T02:16:07.727009"
+    },
+    {
+      "english": "I’m learning, I’m moving forward.",
+      "tamil": "நான் கற்றுக்கொள்கிறேன், நான் முன்னே செல்கிறேன்.",
+      "transliteration": "Naan katrukkolgiren, naan munne selgiren.",
+      "category": "Confidence",
+      "generated_at": "2026-11-18T02:16:07.727011"
+    },
+    {
+      "english": "Even if I pause, I keep going.",
+      "tamil": "நான் இடைவெளி எடுத்தாலும், தொடர்ந்து போகிறேன்.",
+      "transliteration": "Naan idaiveli eduthaalum, thodarndhu pogiren.",
+      "category": "Confidence",
+      "generated_at": "2026-11-18T02:16:07.727012"
     }
   ],
-  "last_updated": "2026-11-17T23:42:14.206311"
+  "last_updated": "2026-11-18T02:16:07.727014"
 }
