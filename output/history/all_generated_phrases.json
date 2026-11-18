@@ -6789,7 +6789,42 @@
       "transliteration": "Naan idaiveli eduthaalum, thodarndhu pogiren.",
       "category": "Confidence",
       "generated_at": "2026-11-18T02:16:07.727012"
+    },
+    {
+      "english": "Hi there, welcome to Tamil class.",
+      "tamil": "வணக்கம், தமிழ் வகுப்புக்கு வரவேற்கிறோம்.",
+      "transliteration": "Vanakkam, tamil vaguppukku varavērkkirom.",
+      "category": "Greetings",
+      "generated_at": "2026-11-18T05:31:45.226078"
+    },
+    {
+      "english": "Salam, how’s your day going so far?",
+      "tamil": "வணக்கம், உங்கள் நாள் எப்படி போகிறது?",
+      "transliteration": "Vanakkam, ungal naal eppadi pokirathu?",
+      "category": "Greetings",
+      "generated_at": "2026-11-18T05:31:45.226090"
+    },
+    {
+      "english": "Good evening, I’m happy to see you.",
+      "tamil": "மாலை வணக்கம், உங்களை பார்த்ததில் மகிழ்ச்சி.",
+      "transliteration": "Maalai vanakkam, ungalai paarthathil magizhchi.",
+      "category": "Greetings",
+      "generated_at": "2026-11-18T05:31:45.226092"
+    },
+    {
+      "english": "Hey, are you doing okay today?",
+      "tamil": "ஹே, இன்று நீங்கள் நலமாக இருக்கிறீர்களா?",
+      "transliteration": "Hē, indru neengal nalamaaga irukkiraargalaa?",
+      "category": "Greetings",
+      "generated_at": "2026-11-18T05:31:45.226095"
+    },
+    {
+      "english": "Hope you’re feeling well today.",
+      "tamil": "இன்று நீங்கள் நலமாக இருக்க வேண்டும்.",
+      "transliteration": "Indru neengal nalamaaga irukka vēndum.",
+      "category": "Greetings",
+      "generated_at": "2026-11-18T05:31:45.226096"
     }
   ],
-  "last_updated": "2026-11-18T02:16:07.727014"
+  "last_updated": "2026-11-18T05:31:45.226099"
 }
