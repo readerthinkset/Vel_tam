@@ -6894,7 +6894,42 @@
       "transliteration": "Udhaviyodu, ungal nerathaiyum pagirungal.",
       "category": "Wisdom",
       "generated_at": "2026-11-18T21:41:22.609409"
+    },
+    {
+      "english": "Good morning, where can I buy tickets?",
+      "tamil": "காலை வணக்கம், டிக்கெட் எங்கே வாங்கலாம்?",
+      "transliteration": "Kaalai vanakkam, dikked engae vaangalaam?",
+      "category": "Travel",
+      "generated_at": "2026-11-18T23:12:31.301869"
+    },
+    {
+      "english": "How much is this train ticket?",
+      "tamil": "இந்த ரயில் டிக்கெட் எவ்வளவு?",
+      "transliteration": "Indha rayil dikked evvalavu?",
+      "category": "Travel",
+      "generated_at": "2026-11-18T23:12:31.301881"
+    },
+    {
+      "english": "Which platform does this train use?",
+      "tamil": "இந்த ரயில் எந்த பிளாட்ஃபார்மில் வரும்?",
+      "transliteration": "Indha rayil endha platform-il varum?",
+      "category": "Travel",
+      "generated_at": "2026-11-18T23:12:31.301882"
+    },
+    {
+      "english": "Is it far from here, to the airport?",
+      "tamil": "இங்கிருந்து விமான நிலையம் தூரமா?",
+      "transliteration": "Ingirundhu Vimaan nilaiyam thooramaa?",
+      "category": "Travel",
+      "generated_at": "2026-11-18T23:12:31.301883"
+    },
+    {
+      "english": "Can I get a taxi, please?",
+      "tamil": "ஒரு டாக்ஸி கிடைக்குமா, தயவு செய்து?",
+      "transliteration": "Oru taxi kidaikkumaa, thayavu seidhu?",
+      "category": "Travel",
+      "generated_at": "2026-11-18T23:12:31.301884"
     }
   ],
-  "last_updated": "2026-11-18T21:41:22.609410"
+  "last_updated": "2026-11-18T23:12:31.301886"
 }
