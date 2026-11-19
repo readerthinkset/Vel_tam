@@ -6999,7 +6999,42 @@
       "transliteration": "nāṉ vazhitavaṟi irukkirēn, nīṅgaḷ kāṭṭa muḍiyumā?",
       "category": "Common Expressions",
       "generated_at": "2026-11-19T05:30:39.856049"
+    },
+    {
+      "english": "Can I try this on, please?",
+      "tamil": "இதை நான் அணிந்து பார்க்கலாமா, தயவு செய்து?",
+      "transliteration": "Idhai naan anindhu paarkkalaamaa, dayavu seidhu?",
+      "category": "Shopping",
+      "generated_at": "2026-11-19T19:54:58.745754"
+    },
+    {
+      "english": "Do you have it in medium?",
+      "tamil": "இதன் நடுத்தர அளவு உங்களிடம் இருக்கா?",
+      "transliteration": "Idhan naduththara alavu ungalidam irukka?",
+      "category": "Shopping",
+      "generated_at": "2026-11-19T19:54:58.745765"
+    },
+    {
+      "english": "Is this item in stock today?",
+      "tamil": "இது இன்று கையிருப்பில் இருக்கிறதா?",
+      "transliteration": "Idhu indru kaiyiruppil irukkiradhaa?",
+      "category": "Shopping",
+      "generated_at": "2026-11-19T19:54:58.745766"
+    },
+    {
+      "english": "I’m just looking, thank you.",
+      "tamil": "நான் மட்டும் பார்க்கிறேன், நன்றி.",
+      "transliteration": "Naan mattum paarkkiren, nandri.",
+      "category": "Shopping",
+      "generated_at": "2026-11-19T19:54:58.745768"
+    },
+    {
+      "english": "Do you accept card payments?",
+      "tamil": "நீங்கள் கார்டு மூலம் கட்டணம் வாங்குவீர்களா?",
+      "transliteration": "Neengal kaardu moolam kattanam vaanguvīrgalaa?",
+      "category": "Shopping",
+      "generated_at": "2026-11-19T19:54:58.745769"
     }
   ],
-  "last_updated": "2026-11-19T05:30:39.856051"
+  "last_updated": "2026-11-19T19:54:58.745770"
 }
