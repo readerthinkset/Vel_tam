@@ -6964,7 +6964,42 @@
       "transliteration": "ungal uLLae suvaasam ngarvathai uNarunggaL.",
       "category": "Mindfulness",
       "generated_at": "2026-11-19T01:48:12.720986"
+    },
+    {
+      "english": "Where is the bathroom, please?",
+      "tamil": "கழிப்பறை எங்கே இருக்கிறது?",
+      "transliteration": "kaḻippaṟai enge irukkirathu?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-19T05:30:39.856033"
+    },
+    {
+      "english": "I’d like to eat something.",
+      "tamil": "எனக்கு கொஞ்சம் சாப்பிட வேண்டும்.",
+      "transliteration": "enakku konjam saappida vēṇdum.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-19T05:30:39.856044"
+    },
+    {
+      "english": "Do you have this in smaller size?",
+      "tamil": "இதைக் குறைவான அளவில் இருக்கா?",
+      "transliteration": "idhaik kuṟaivāna aḷavil irukkā?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-19T05:30:39.856046"
+    },
+    {
+      "english": "What time does it open?",
+      "tamil": "இது எந்த நேரத்தில் திறக்கும்?",
+      "transliteration": "idhu entha nēratthil thiṟakkum?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-19T05:30:39.856048"
+    },
+    {
+      "english": "I’m lost, can you show me?",
+      "tamil": "நான் வழிதவறி இருக்கிறேன், நீங்கள் காட்ட முடியுமா?",
+      "transliteration": "nāṉ vazhitavaṟi irukkirēn, nīṅgaḷ kāṭṭa muḍiyumā?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-19T05:30:39.856049"
     }
   ],
-  "last_updated": "2026-11-19T01:48:12.720987"
+  "last_updated": "2026-11-19T05:30:39.856051"
 }
