@@ -6929,7 +6929,42 @@
       "transliteration": "Oru taxi kidaikkumaa, thayavu seidhu?",
       "category": "Travel",
       "generated_at": "2026-11-18T23:12:31.301884"
+    },
+    {
+      "english": "Inhale slowly, soften your face.",
+      "tamil": "மெதுவாக உள்ளிழுங்கள், உங்கள் முகத்தை மென்மையாக்குங்கள்.",
+      "transliteration": "methuvaaga uLLizhuLngaL, ungal mugaththai menmaiyaakkunggaL.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-19T01:48:12.720971"
+    },
+    {
+      "english": "Exhale slowly, release tightness.",
+      "tamil": "மெதுவாக வெளிவிடுங்கள், இறுக்கத்தை விடுங்கள்.",
+      "transliteration": "methuvaaga veLividunggaL, irukkaththai vidunggaL.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-19T01:48:12.720982"
+    },
+    {
+      "english": "Relax your shoulders, let them drop.",
+      "tamil": "உங்கள் தோள்களை தளர்த்துங்கள், கீழே இறக்குங்கள்.",
+      "transliteration": "ungal thOLgaLai thaLarththunggaL, keeZae iRakkunggaL.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-19T01:48:12.720983"
+    },
+    {
+      "english": "Unclench your jaw, breathe naturally.",
+      "tamil": "உங்கள் தாடையை தளர்த்துங்கள், இயல்பாக சுவாசியுங்கள்.",
+      "transliteration": "ungal taadai(a)yai thaLarththunggaL, iyalbaaga suvaasiyunggaL.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-19T01:48:12.720984"
+    },
+    {
+      "english": "Feel your breath moving in you.",
+      "tamil": "உங்கள் உள்ளே சுவாசம் நகர்வதை உணருங்கள்.",
+      "transliteration": "ungal uLLae suvaasam ngarvathai uNarunggaL.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-19T01:48:12.720986"
     }
   ],
-  "last_updated": "2026-11-18T23:12:31.301886"
+  "last_updated": "2026-11-19T01:48:12.720987"
 }
