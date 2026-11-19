@@ -7034,7 +7034,42 @@
       "transliteration": "Neengal kaardu moolam kattanam vaanguvīrgalaa?",
       "category": "Shopping",
       "generated_at": "2026-11-19T19:54:58.745769"
+    },
+    {
+      "english": "I forgive you, I mean it.",
+      "tamil": "நான் உன்னை மன்னிக்கிறேன், உண்மையாகவே.",
+      "transliteration": "naan unnai mannikiren, unmaiyagave.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-19T21:57:19.427519"
+    },
+    {
+      "english": "Let’s not keep blaming each other.",
+      "tamil": "ஒருவரையொருவர் குற்றம் சுமத்த வேண்டாம்.",
+      "transliteration": "oruvaraiyoruvar kutram sumaththa vendaam.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-19T21:57:19.427530"
+    },
+    {
+      "english": "I won't hold this against you.",
+      "tamil": "இதைக் கொண்டு உன்னை குறை சொல்லமாட்டேன்.",
+      "transliteration": "ithaik kondu unnai kurai sollamaatten.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-19T21:57:19.427532"
+    },
+    {
+      "english": "I’m choosing peace over anger today.",
+      "tamil": "இன்றைக்கு கோபத்துக்கு மேல் அமைதியைத் தேர்வு செய்கிறேன்.",
+      "transliteration": "indru kopaththukku mel amaidhiyai thervu seykiren.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-19T21:57:19.427533"
+    },
+    {
+      "english": "We can talk, and settle it.",
+      "tamil": "நாம் பேசலாம், அதைத் தீர்க்கலாம்.",
+      "transliteration": "naam pEsalaam, athaith theerkkalaam.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-19T21:57:19.427535"
     }
   ],
-  "last_updated": "2026-11-19T19:54:58.745770"
+  "last_updated": "2026-11-19T21:57:19.427537"
 }
