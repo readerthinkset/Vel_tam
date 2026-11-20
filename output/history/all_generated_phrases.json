@@ -7209,7 +7209,42 @@
       "transliteration": "Un vegam medhuvaaga irundhaalum munneratram.",
       "category": "Self Improvement",
       "generated_at": "2026-11-20T19:34:22.420485"
+    },
+    {
+      "english": "Can you tell me the time?",
+      "tamil": "நேரம் என்ன என்று சொல்லுங்களா?",
+      "transliteration": "Nēram enna enru sollungalaa?",
+      "category": "Time",
+      "generated_at": "2026-11-20T21:39:47.988814"
+    },
+    {
+      "english": "What’s the time, please?",
+      "tamil": "தயவு செய்து நேரம் சொல்லுங்களா?",
+      "transliteration": "Thayavu seithu nēram sollungalaa?",
+      "category": "Time",
+      "generated_at": "2026-11-20T21:39:47.988826"
+    },
+    {
+      "english": "Is it already past six?",
+      "tamil": "ஆறுக்கு மேலா ஆகிடுச்சா?",
+      "transliteration": "Āruku mēlā ākiduchaa?",
+      "category": "Time",
+      "generated_at": "2026-11-20T21:39:47.988827"
+    },
+    {
+      "english": "It’s almost lunchtime now.",
+      "tamil": "இப்போ, மதிய உணவு நேரம் நெருங்குது.",
+      "transliteration": "Ippo, mathiya uṇavu nēram nerunguthu.",
+      "category": "Time",
+      "generated_at": "2026-11-20T21:39:47.988828"
+    },
+    {
+      "english": "I think it’s eight o’clock.",
+      "tamil": "எனக்கு எட்டு மணி போல இருக்கு.",
+      "transliteration": "Enakku ettu maṇi pola irukku.",
+      "category": "Time",
+      "generated_at": "2026-11-20T21:39:47.988829"
     }
   ],
-  "last_updated": "2026-11-20T19:34:22.420486"
+  "last_updated": "2026-11-20T21:39:47.988831"
 }
