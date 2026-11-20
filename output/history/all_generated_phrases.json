@@ -7244,7 +7244,42 @@
       "transliteration": "Enakku ettu maṇi pola irukku.",
       "category": "Time",
       "generated_at": "2026-11-20T21:39:47.988829"
+    },
+    {
+      "english": "You’re improving, word by word.",
+      "tamil": "நீங்கள் முன்னேறுகிறீர்கள், சொல்லுச் சொல்லாக.",
+      "transliteration": "Neengaḷ munnerugireergaḷ, sollu sollaaga.",
+      "category": "Growth",
+      "generated_at": "2026-11-20T22:52:17.143355"
+    },
+    {
+      "english": "Take breaks, then come back.",
+      "tamil": "சிறிது ஓய்வு எடுத்துக் கொண்டு, மீண்டும் வாருங்கள்.",
+      "transliteration": "Siridhu oyvu edutthu kondu, meendum vaarungal.",
+      "category": "Growth",
+      "generated_at": "2026-11-20T22:52:17.143369"
+    },
+    {
+      "english": "Speak with confidence, slowly.",
+      "tamil": "நிதானமாக, நம்பிக்கையுடன் பேசுங்கள்.",
+      "transliteration": "Nidhaanamaaga, nampikkaiyudan peasungal.",
+      "category": "Growth",
+      "generated_at": "2026-11-20T22:52:17.143371"
+    },
+    {
+      "english": "Tamil rhythms will stick to you.",
+      "tamil": "தமிழ் ஒசைகள் உங்களுக்கு ஒட்டிக்கொள்ளும்.",
+      "transliteration": "Tamizh osaigaḷ ungalukku ottikkoḷḷum.",
+      "category": "Growth",
+      "generated_at": "2026-11-20T22:52:17.143373"
+    },
+    {
+      "english": "Read a sentence, then pause.",
+      "tamil": "ஒரு வாக்கியம் வாசித்து, சிறிது நிற்குங்கள்.",
+      "transliteration": "Oru vaakkiyam vaasithu, siridhu nirkungal.",
+      "category": "Growth",
+      "generated_at": "2026-11-20T22:52:17.143374"
     }
   ],
-  "last_updated": "2026-11-20T21:39:47.988831"
+  "last_updated": "2026-11-20T22:52:17.143376"
 }
