@@ -7384,7 +7384,42 @@
       "transliteration": "amaidhiyaaga kaathirungal, ungal vaayppu varum",
       "category": "Hope",
       "generated_at": "2026-11-21T18:39:15.642491"
+    },
+    {
+      "english": "Hello, I’m looking for a table.",
+      "tamil": "வணக்கம், எனக்கு ஒரு மேஜை வேண்டும்.",
+      "transliteration": "Vaṇakkam, enakku oru mejai vēṇum.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-21T20:21:09.474332"
+    },
+    {
+      "english": "We’re hungry, can we come in?",
+      "tamil": "நாங்கள் பசிக்குது, உள்ளே வரலாமா?",
+      "transliteration": "Naṅgaḷ pāsikkudu, uḷḷē varalāmā?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-21T20:21:09.474368"
+    },
+    {
+      "english": "Are reservations required here?",
+      "tamil": "இங்கே முன்பதிவு தேவையா?",
+      "transliteration": "Ingē munpaṭivu thēvaiyā?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-21T20:21:09.474370"
+    },
+    {
+      "english": "Could we have some water, please?",
+      "tamil": "தயவு செய்து கொஞ்சம் தண்ணீர் தர முடியுமா?",
+      "transliteration": "Thayavu seythu konjam thaṇṇīr tara mudiyumā?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-21T20:21:09.474371"
+    },
+    {
+      "english": "Is the dining area air-conditioned?",
+      "tamil": "இங்கே குளிர்சாதன வசதி இருக்கா?",
+      "transliteration": "Ingē kuḷirchādhana vasadhi irukkā?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-21T20:21:09.474372"
     }
   ],
-  "last_updated": "2026-11-21T18:39:15.642493"
+  "last_updated": "2026-11-21T20:21:09.474374"
 }
