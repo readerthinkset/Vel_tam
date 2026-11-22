@@ -7489,7 +7489,42 @@
       "transliteration": "Nagarungal, ovvoru padiyāga.",
       "category": "Courage",
       "generated_at": "2026-11-22T00:12:25.504073"
+    },
+    {
+      "english": "Please help, I feel unwell right now.",
+      "tamil": "தயவு செய்து உதவுங்கள், எனக்கு உடல் நலம் இல்லை.",
+      "transliteration": "Thayavu seythu udhavungal, enakku udal nalam illai.",
+      "category": "Emergency",
+      "generated_at": "2026-11-22T04:36:14.436101"
+    },
+    {
+      "english": "I’ve been injured, please stay with me.",
+      "tamil": "எனக்கு காயம் ஏற்பட்டுள்ளது, என்னுடன் இருங்கள்.",
+      "transliteration": "Enakku kaayam erpattullathu, ennudan irungal.",
+      "category": "Emergency",
+      "generated_at": "2026-11-22T04:36:14.436119"
+    },
+    {
+      "english": "My chest hurts, I need help quickly.",
+      "tamil": "என் மார்பு வலிக்கிறது, எனக்கு உடனே உதவி வேண்டும்.",
+      "transliteration": "En maarbu valikkirathu, enakku udane udhavi vendum.",
+      "category": "Emergency",
+      "generated_at": "2026-11-22T04:36:14.436121"
+    },
+    {
+      "english": "I can’t breathe properly, call for help.",
+      "tamil": "எனக்கு சரியாக சுவாசிக்க முடியவில்லை, உதவி அழைக்கவும்.",
+      "transliteration": "Enakku sariyaaga suvaasikka mudiyavillai, udhavi azhaikkavum.",
+      "category": "Emergency",
+      "generated_at": "2026-11-22T04:36:14.436123"
+    },
+    {
+      "english": "Someone is trapped, please call emergency.",
+      "tamil": "யாரோ ஒருவர் சிக்கிக் கொண்டிருக்கிறார், அவசர உதவி அழைக்கவும்.",
+      "transliteration": "Yaarō oruvar sikki kondirukkiraar, avasar udhavi azhaikkavum.",
+      "category": "Emergency",
+      "generated_at": "2026-11-22T04:36:14.436124"
     }
   ],
-  "last_updated": "2026-11-22T00:12:25.504075"
+  "last_updated": "2026-11-22T04:36:14.436127"
 }
