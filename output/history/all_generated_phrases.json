@@ -7664,7 +7664,42 @@
       "transliteration": "Thavarugal paadangkal, tholvii illai.",
       "category": "Success",
       "generated_at": "2026-11-23T00:43:12.156019"
+    },
+    {
+      "english": "I am hungry, where can I eat?",
+      "tamil": "எனக்கு பசிக்கிறது, நான் எங்கே சாப்பிடலாம்?",
+      "transliteration": "Enakku pasikkirathu, naan enge saappidalaam?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-23T05:12:41.918404"
+    },
+    {
+      "english": "Is there a shop near here?",
+      "tamil": "இங்கே அருகில் ஒரு கடை இருக்கிறதா?",
+      "transliteration": "Inge arugil oru kadai irukkirathaa?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-23T05:12:41.918415"
+    },
+    {
+      "english": "Can I buy this, please?",
+      "tamil": "இதை வாங்கலாமா, தயவு செய்து?",
+      "transliteration": "Idhai vaangalaamaa, thayavu seidhu?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-23T05:12:41.918417"
+    },
+    {
+      "english": "How do I get there?",
+      "tamil": "அங்கே நான் எப்படி போகலாம்?",
+      "transliteration": "Angae naan eppadi pogalaam?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-23T05:12:41.918419"
+    },
+    {
+      "english": "Is the bus going soon?",
+      "tamil": "பஸ் சீக்கிரம் வருமா?",
+      "transliteration": "Bus seekkiram varumaa?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-23T05:12:41.918421"
     }
   ],
-  "last_updated": "2026-11-23T00:43:12.156023"
+  "last_updated": "2026-11-23T05:12:41.918423"
 }
