@@ -7874,7 +7874,42 @@
       "transliteration": "meduvāga sonnālum adhu mukkiyam.",
       "category": "Confidence",
       "generated_at": "2026-11-24T07:56:40.346696"
+    },
+    {
+      "english": "This is my father’s brother, uncle.",
+      "tamil": "இது என் அப்பாவின் அண்ணன், அத்தை.",
+      "transliteration": "idhu en appaavin aṇṇan, aththai.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-24T21:53:05.709378"
+    },
+    {
+      "english": "My mother sings softly at home.",
+      "tamil": "என் அம்மா வீட்டில் மெதுவா பாடுவாங்க.",
+      "transliteration": "en ammaa veettil methuvaa paaduvaanga.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-24T21:53:05.709411"
+    },
+    {
+      "english": "I call my sister every evening.",
+      "tamil": "நான் என் அக்காவுக்கு மாலை நேரம் அழைப்பேன்.",
+      "transliteration": "naan en akkaavukku maalai neram azhaippaen.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-24T21:53:05.709413"
+    },
+    {
+      "english": "My brother always shares his snacks.",
+      "tamil": "என் அண்ணன் எப்போதும் அவன் சாப்பாட்டை பகிர்வான்.",
+      "transliteration": "en aṇṇan eppodhum avan saappaattai pagirvaan.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-24T21:53:05.709415"
+    },
+    {
+      "english": "My grandmother wakes up early.",
+      "tamil": "என் பாட்டி சீக்கிரம் எழுந்திருப்பாங்க.",
+      "transliteration": "en paatti seekkiram ezhundhiruppaanga.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-24T21:53:05.709417"
     }
   ],
-  "last_updated": "2026-11-24T07:56:40.346698"
+  "last_updated": "2026-11-24T21:53:05.709423"
 }
