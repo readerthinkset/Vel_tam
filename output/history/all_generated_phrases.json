@@ -7734,7 +7734,42 @@
       "transliteration": "Porumai oru valimai, indru payanpaduthungal.",
       "category": "Patience",
       "generated_at": "2026-11-23T23:18:32.173573"
+    },
+    {
+      "english": "I have only one water bottle, today.",
+      "tamil": "இன்று எனக்கு ஒரு தண்ணீர் பாட்டில் மட்டும்.",
+      "transliteration": "Inru enakku oru thannīr pāṭṭil maṭṭum.",
+      "category": "Numbers",
+      "generated_at": "2026-11-24T01:27:55.332281"
+    },
+    {
+      "english": "Please give me two mangoes, now.",
+      "tamil": "தயவு செய்து இப்போது எனக்கு இரண்டு மாம்பழங்கள்.",
+      "transliteration": "Dayavu seythu ippo enakku irandu māmbazhangal.",
+      "category": "Numbers",
+      "generated_at": "2026-11-24T01:27:55.332293"
+    },
+    {
+      "english": "Can I get three biscuits, please?",
+      "tamil": "தயவு செய்து மூன்று பிஸ்கட்டுகள் தர முடியுமா?",
+      "transliteration": "Dayavu seythu mūndru biskatṭukal tara mudiyumā?",
+      "category": "Numbers",
+      "generated_at": "2026-11-24T01:27:55.332295"
+    },
+    {
+      "english": "I want four cups of tea, please.",
+      "tamil": "தயவு செய்து எனக்கு நான்கு டீ கப் வேண்டும்.",
+      "transliteration": "Dayavu seythu enakku nānku tī kap vēṇṭum.",
+      "category": "Numbers",
+      "generated_at": "2026-11-24T01:27:55.332297"
+    },
+    {
+      "english": "Give me five more minutes, please.",
+      "tamil": "தயவு செய்து எனக்கு இன்னும் ஐந்து நிமிடங்கள்.",
+      "transliteration": "Dayavu seythu enakku innum ainthu nimidaṅgaḷ.",
+      "category": "Numbers",
+      "generated_at": "2026-11-24T01:27:55.332298"
     }
   ],
-  "last_updated": "2026-11-23T23:18:32.173575"
+  "last_updated": "2026-11-24T01:27:55.332300"
 }
