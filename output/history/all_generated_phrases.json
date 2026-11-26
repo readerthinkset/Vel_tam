@@ -8224,7 +8224,42 @@
       "transliteration": "Siriya vettrikkum neram odukku.",
       "category": "Self Improvement",
       "generated_at": "2026-11-26T06:23:42.085235"
+    },
+    {
+      "english": "Hi, what’s your name?",
+      "tamil": "வணக்கம், உங்கள் பெயர் என்ன?",
+      "transliteration": "Vanakkam, ungaḷ peyar enna?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-26T20:52:45.549597"
+    },
+    {
+      "english": "I’m fine, and you?",
+      "tamil": "நான் நன்றாக இருக்கிறேன், நீங்கள்?",
+      "transliteration": "Naan nanraaga irukkiren, neenga?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-26T20:52:45.549608"
+    },
+    {
+      "english": "Nice to meet you today.",
+      "tamil": "இன்று உங்களை சந்தித்ததில் மகிழ்ச்சி.",
+      "transliteration": "Indru ungalai santhiththathil magizhchi.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-26T20:52:45.549610"
+    },
+    {
+      "english": "Please wait a moment, okay?",
+      "tamil": "சிறிது நேரம் காத்திருங்கள், சரியா?",
+      "transliteration": "Siritheḍu naeram kaaththirungal, sarivaa?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-26T20:52:45.549611"
+    },
+    {
+      "english": "I need this for tomorrow.",
+      "tamil": "இதை நாளைக்கு வேண்டும்.",
+      "transliteration": "Idhai naalaikku vaendum.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-26T20:52:45.549613"
     }
   ],
-  "last_updated": "2026-11-26T06:23:42.085238"
+  "last_updated": "2026-11-26T20:52:45.549615"
 }
