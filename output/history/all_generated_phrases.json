@@ -8119,7 +8119,42 @@
       "transliteration": "Indraikku ungalukku oru amaidiyāna nimidam koḍungal.",
       "category": "Inner Peace",
       "generated_at": "2026-11-25T22:54:45.942954"
+    },
+    {
+      "english": "Where are the shoes, please?",
+      "tamil": "ஷூஸ் எங்கே இருக்கிறது, தயவு செய்து.",
+      "transliteration": "Shoes enge irukkirathu, thayavu seithu.",
+      "category": "Shopping",
+      "generated_at": "2026-11-26T00:45:34.508429"
+    },
+    {
+      "english": "How much is this shirt?",
+      "tamil": "இந்த சட்டை எவ்வளவு?",
+      "transliteration": "Intha sattai evvalavu?",
+      "category": "Shopping",
+      "generated_at": "2026-11-26T00:45:34.508444"
+    },
+    {
+      "english": "Do you have similar designs?",
+      "tamil": "இதே மாதிரி வடிவங்கள் இருக்கிறதா?",
+      "transliteration": "Idhe mathiri vadivangal irukkiratha?",
+      "category": "Shopping",
+      "generated_at": "2026-11-26T00:45:34.508445"
+    },
+    {
+      "english": "Is this price fixed?",
+      "tamil": "இந்த விலை நிர்ணயமா?",
+      "transliteration": "Intha vilai nirnayam-a?",
+      "category": "Shopping",
+      "generated_at": "2026-11-26T00:45:34.508446"
+    },
+    {
+      "english": "I need a gift bag, please.",
+      "tamil": "எனக்கு பரிசு பை வேண்டும், தயவு செய்து.",
+      "transliteration": "Enakku parisu bai vendum, thayavu seithu.",
+      "category": "Shopping",
+      "generated_at": "2026-11-26T00:45:34.508447"
     }
   ],
-  "last_updated": "2026-11-25T22:54:45.942956"
+  "last_updated": "2026-11-26T00:45:34.508449"
 }
