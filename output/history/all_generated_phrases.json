@@ -8259,7 +8259,42 @@
       "transliteration": "Idhai naalaikku vaendum.",
       "category": "Common Expressions",
       "generated_at": "2026-11-26T20:52:45.549613"
+    },
+    {
+      "english": "Inhale slowly, soften your mind.",
+      "tamil": "மெதுவாக உள்ளிழுக்கவும், மனத்தை மென்மையாக்கவும்.",
+      "transliteration": "medhuvāga uḷḷiḻukkavum, maṇathai memmaiyākkavum.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-26T22:45:20.141058"
+    },
+    {
+      "english": "Exhale slowly, release the tightness.",
+      "tamil": "மெதுவாக வெளியேற்றவும், இறுக்கத்தை விடுங்கள்.",
+      "transliteration": "medhuvāga veḷiyēṭṭavum, iṟukkathai viḍungāl.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-26T22:45:20.141070"
+    },
+    {
+      "english": "Relax your brow, keep it light.",
+      "tamil": "நெற்றியை தளர்த்துங்கள், லேசாக வைத்திருங்கள்.",
+      "transliteration": "netṟiyai thaḷarththuṅkaḷ, lēsāga vaiththiruṅkaḷ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-26T22:45:20.141078"
+    },
+    {
+      "english": "Unclench your hands, let go gently.",
+      "tamil": "கைகளை தளர்த்துங்கள், மெதுவாக விடுங்கள்.",
+      "transliteration": "kaigaḷai thaḷarththuṅkaḷ, medhuvāga viḍungāl.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-26T22:45:20.141079"
+    },
+    {
+      "english": "Keep your gaze soft, breathe calmly.",
+      "tamil": "உங்கள் பார்வையை மென்மையாக வைத்திருங்கள், அமைதியாக சுவாசியுங்கள்.",
+      "transliteration": "unggaḷ pārvaiyai memmையாக vaiththiruṅkaḷ, amaidhiyāga suvasiyungaḷ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-26T22:45:20.141081"
     }
   ],
-  "last_updated": "2026-11-26T20:52:45.549615"
+  "last_updated": "2026-11-26T22:45:20.141083"
 }
