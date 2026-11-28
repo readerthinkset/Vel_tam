@@ -8357,7 +8357,28 @@
       "transliteration": "Indha perundhu nagara maiyathukku pogumaa?",
       "category": "Travel",
       "generated_at": "2026-11-28T03:43:23.160900"
+    },
+    {
+      "english": "Excuse me, what time do we meet?",
+      "tamil": "மன்னிக்கவும், நாம் எப்போது சந்திக்கலாம்?",
+      "transliteration": "Mannikkavum, naam eppothu sandhikkalaam?",
+      "category": "Time",
+      "generated_at": "2026-11-28T11:20:55.359115"
+    },
+    {
+      "english": "At what time does the movie start?",
+      "tamil": "திரைப்படம் எந்த நேரத்தில் தொடங்கும்?",
+      "transliteration": "Thiraippadam entha nerathil thodangum?",
+      "category": "Time",
+      "generated_at": "2026-11-28T11:20:55.359130"
+    },
+    {
+      "english": "Do you know the time right now?",
+      "tamil": "இப்போ சரியான நேரம் தெரியுமா?",
+      "transliteration": "Ippo sariyaana neram theriyumaa?",
+      "category": "Time",
+      "generated_at": "2026-11-28T11:20:55.359132"
     }
   ],
-  "last_updated": "2026-11-28T03:43:23.160902"
+  "last_updated": "2026-11-28T11:20:55.359133"
 }
