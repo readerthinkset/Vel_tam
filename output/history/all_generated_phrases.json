@@ -8336,7 +8336,28 @@
       "transliteration": "Intha valikkup padhilaaga naan irakkam therndhedukkiren.",
       "category": "Forgiveness",
       "generated_at": "2026-11-27T19:19:18.781973"
+    },
+    {
+      "english": "Where is the metro entrance, please?",
+      "tamil": "மெட்ரோ நுழைவு எங்கே இருக்கிறது?",
+      "transliteration": "Metro nuzhaivu enge irukkiradhu?",
+      "category": "Travel",
+      "generated_at": "2026-11-28T03:43:23.160881"
+    },
+    {
+      "english": "I’d like to buy a day pass.",
+      "tamil": "எனக்கு ஒரு நாள் பாஸ் வேண்டும்.",
+      "transliteration": "Enakku oru naal pass vendum.",
+      "category": "Travel",
+      "generated_at": "2026-11-28T03:43:23.160898"
+    },
+    {
+      "english": "Does this bus go downtown?",
+      "tamil": "இந்த பேருந்து நகர மையத்துக்கு போகுமா?",
+      "transliteration": "Indha perundhu nagara maiyathukku pogumaa?",
+      "category": "Travel",
+      "generated_at": "2026-11-28T03:43:23.160900"
     }
   ],
-  "last_updated": "2026-11-27T19:19:18.781975"
+  "last_updated": "2026-11-28T03:43:23.160902"
 }
